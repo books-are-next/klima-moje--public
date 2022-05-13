@@ -1,0 +1,438 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Moje první lásky",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ivan Klíma",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-03-17T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "moje_prvni_lasky_001.md",
+            "xhtml": "moje_prvni_lasky_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_002.md",
+            "xhtml": "moje_prvni_lasky_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_003.md",
+            "xhtml": "moje_prvni_lasky_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_004.md",
+            "xhtml": "moje_prvni_lasky_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_005.md",
+            "xhtml": "moje_prvni_lasky_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_006.md",
+            "xhtml": "moje_prvni_lasky_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_007.md",
+            "xhtml": "moje_prvni_lasky_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_008.md",
+            "xhtml": "moje_prvni_lasky_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_009.md",
+            "xhtml": "moje_prvni_lasky_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_010.md",
+            "xhtml": "moje_prvni_lasky_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_011.md",
+            "xhtml": "moje_prvni_lasky_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_012.md",
+            "xhtml": "moje_prvni_lasky_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_013.md",
+            "xhtml": "moje_prvni_lasky_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_014.md",
+            "xhtml": "moje_prvni_lasky_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_015.md",
+            "xhtml": "moje_prvni_lasky_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_016.md",
+            "xhtml": "moje_prvni_lasky_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_017.md",
+            "xhtml": "moje_prvni_lasky_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "moje_prvni_lasky_018.md",
+            "xhtml": "moje_prvni_lasky_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Moje první lásky",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ivan Klíma",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-03-17T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_001.md",
+        "xhtml": "moje_prvni_lasky_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_002.md",
+        "xhtml": "moje_prvni_lasky_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_003.md",
+        "xhtml": "moje_prvni_lasky_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_004.md",
+        "xhtml": "moje_prvni_lasky_004.xhtml"
+      },
+      {
+        "titleSuggest": "Láska",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_005.md",
+        "xhtml": "moje_prvni_lasky_005.xhtml"
+      },
+      {
+        "titleSuggest": "Miriam",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_006.md",
+        "xhtml": "moje_prvni_lasky_006.xhtml"
+      },
+      {
+        "titleSuggest": "In camera caritatis1",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_007.md",
+        "xhtml": "moje_prvni_lasky_007.xhtml"
+      },
+      {
+        "titleSuggest": "Má vlast",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_008.md",
+        "xhtml": "moje_prvni_lasky_008.xhtml"
+      },
+      {
+        "titleSuggest": "Hra na pravdu",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_009.md",
+        "xhtml": "moje_prvni_lasky_009.xhtml"
+      },
+      {
+        "titleSuggest": "Provazochodci",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_010.md",
+        "xhtml": "moje_prvni_lasky_010.xhtml"
+      },
+      {
+        "titleSuggest": "Lingula",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_011.md",
+        "xhtml": "moje_prvni_lasky_011.xhtml"
+      },
+      {
+        "titleSuggest": "Pás",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_012.md",
+        "xhtml": "moje_prvni_lasky_012.xhtml"
+      },
+      {
+        "titleSuggest": "Poprava koně",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_013.md",
+        "xhtml": "moje_prvni_lasky_013.xhtml"
+      },
+      {
+        "titleSuggest": "Klára a dva páni",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_014.md",
+        "xhtml": "moje_prvni_lasky_014.xhtml"
+      },
+      {
+        "titleSuggest": "Svatební cesta",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_015.md",
+        "xhtml": "moje_prvni_lasky_015.xhtml"
+      },
+      {
+        "titleSuggest": "Nebe, peklo, ráj",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_016.md",
+        "xhtml": "moje_prvni_lasky_016.xhtml"
+      },
+      {
+        "titleSuggest": "Autorova poznámka",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_017.md",
+        "xhtml": "moje_prvni_lasky_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "moje_prvni_lasky_018.md",
+        "xhtml": "moje_prvni_lasky_018.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_moje_prvni_lasky.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "CharOverride-2",
+      "CharOverride-3",
+      "CharOverride-4",
+      "CharOverride-5",
+      "CharOverride-6",
+      "HorizontalRule-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_-I-",
+      "MLP_dopis_bez1radku_-I-",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_pozn_pod_carou",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_-12-0-",
+      "MLP_text_-12-12-",
+      "MLP_text_-I-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_uprostred_-B-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_tiraz_podnazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_titulka_podnazev",
+      "MLP_uroven2_kapitola",
+      "MLP_uroven3_nadpis",
+      "MLP_verse_-I-_-12-12-",
+      "MLP_znak_kurziva_11b",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "ParaOverride-4",
+      "Z-kladn--textový-r-meček",
+      "_idFootnote",
+      "_idFootnoteAnchor",
+      "_idFootnoteLink",
+      "_idFootnotes",
+      "_idGenCharOverride-1",
+      "_idGenColorInherit",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "klima-moje-prvni-lasky"
+    },
+    "generatedAt": 1652420748613
+  }
+}

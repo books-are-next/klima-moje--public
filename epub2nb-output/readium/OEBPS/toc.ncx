@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Moje první lásky</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Láska</text>
+      </navLabel>
+      <content src="Text/moje_prvni_lasky_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Miriam</text>
+      </navLabel>
+      <content src="Text/moje_prvni_lasky_006.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>In camera caritatis</text>
+      </navLabel>
+      <content src="Text/moje_prvni_lasky_007.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Má vlast</text>
+      </navLabel>
+      <content src="Text/moje_prvni_lasky_008.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Hra na pravdu</text>
+      </navLabel>
+      <content src="Text/moje_prvni_lasky_009.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Provazochodci</text>
+      </navLabel>
+      <content src="Text/moje_prvni_lasky_010.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Lingula</text>
+      </navLabel>
+      <content src="Text/moje_prvni_lasky_011.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Pás</text>
+      </navLabel>
+      <content src="Text/moje_prvni_lasky_012.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Poprava koně</text>
+      </navLabel>
+      <content src="Text/moje_prvni_lasky_013.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Klára a dva páni</text>
+      </navLabel>
+      <content src="Text/moje_prvni_lasky_014.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Svatební cesta</text>
+      </navLabel>
+      <content src="Text/moje_prvni_lasky_015.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Nebe, peklo, ráj</text>
+      </navLabel>
+      <content src="Text/moje_prvni_lasky_016.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Autorova poznámka</text>
+      </navLabel>
+      <content src="Text/moje_prvni_lasky_017.xhtml#_idParaDest-13"/>
+    </navPoint>
+  </navMap>
+</ncx>
