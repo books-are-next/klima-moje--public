@@ -5,8 +5,6 @@ contentType: prose
 
 ## 1
 
-  
-
 Silnice stoupala vzhůru v ostrých zákrutech.
 
 Dívka seděla přitisknuta k jeho rameni, byla menší než on a drobnější, ztrácela se skoro vedle něho.
@@ -84,8 +82,6 @@ Ucítil, že se dotkla jeho ruky.
 Těch pět se zvedlo od velkého stolu, voják si s klapnutím připjal opasek. Blížili se k nim trochu rozpačitě, na rtech sváteční úsměvy, jak se sluší na hosty, kteří přicházejí přisednout ke svatebčanům. Všiml si, že jeden ze strejců má pod pravým ušním boltcem modravou bulku (jeho tvář zapomene, ale jeho pravý ušní boltec si bude pamatovat) a že dívka má na obnaženém krku zlatý řetízek.
 
 ## 2
-
-  
 
 Až v hrdle cítil přiboudlou mastnotu řízku a chuť špatného vína. Ta dlouhá cesta autem a teď ten večer, bezkonečný večer v místnosti, která úpěla nudou. Cítil se unaven až k vyčerpání.
 
@@ -191,8 +187,6 @@ Mlčel.
 
 ## 3
 
-  
-
 Kopec s hradem teď viděli z druhé strany, polorozpadlá cimbuří byla osvícena měsíčním světlem a vypadala v té noci majestátně a hrozivě.
 
 Zastavil auto a vypnul světla. „Kam teď?“ zeptal se.
@@ -267,4 +261,4 @@ Objal ji.
 
 „Já vím,“ zašeptala, „já to vím. Pse. Můj pse!“
 
-_(1969)_
+> _(1969)_

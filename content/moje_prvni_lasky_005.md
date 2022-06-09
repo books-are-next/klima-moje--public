@@ -3,8 +3,6 @@ title: Láska
 contentType: prose
 ---
 
-  
-
 Poloprázdná tramvaj hrčela po Invalidovně. Vlečňáky se kolébaly sem a tam a jejich skla řinčela.
 
 Zdálo se mu, že tramvaj jede ještě pomaleji než obvykle, a přecházel netrpělivě po plošině. Nepomohlo to ovšem a on nevěděl, co má udělat, aby rychleji uběhl čas. Díval se tedy alespoň do širokých prostor vpravo a přemítal, kolik by se tady dalo nastavět domů. Nestavěl by žádné paláce, jen docela obyčejné činžáky s trávníkem pod okny, pod velkými a širokými okny.
@@ -115,4 +113,4 @@ Objali se.
 
 Ze skladiště vyklouzl železničář. Neviděli ho však. Zhasil opatrně lucernu a potom se kolébal tiše kolem nich nazpátek do svého domku.
 
-_(1957)_
+> _(1957)_

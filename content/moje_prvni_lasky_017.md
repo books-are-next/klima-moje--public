@@ -3,8 +3,6 @@ title: Autorova poznámka
 contentType: prose
 ---
 
-  
-
 Do prvního svazku těchto chystaných spisů jsem zařadil prózy, které by se daly zjednodušeně nazvat milostné. Porušil jsem úmyslně časovou posloupnost jejich vzniku. Zařadil jsem do první části prózy shrnuté do knihy _Moje první lásky_, napsané na sklonku sedmdesátých a v začátku osmdesátých let, snažil jsem se v nich totiž vylíčit pocity spíše pubertálního toužení než skutečné milostné zážitky.
 
 Logicky po nich teprve následují povídky o zralejších vztazích, ačkoliv většina z nich vznikala v letech šedesátých. Zařadil jsem také krátkou prózu ze své první povídkové knihy _Bezvadný den_, která vznikala ještě v padesátých letech. Kratičká _Láska_ je jistě dosti naivní, ale ve své době měla smysl i tím, že se naprosto vyhnula všem dobovým literárním rituálům a manýrám. Byla o lásce – o ničem víc. Zbylé povídky pak jsou ze dvou sbírek: _Milenci na jednu noc_ a _Milenci na jeden den_.
@@ -15,4 +13,4 @@ Povídkový soubor _Milenci na jednu_ _noc_ vyšel v Československém spisovat
 
 Váhal jsem, zda mám vůbec do textů zasahovat, ale nakonec jsem se rozhodl k několika opravdu nepatrným stylistickým úpravám, především drobným škrtům zvláště v povídkách ze šedesátých let, kde jsem občas vypustil příliš pateticky znějící přívlastky anebo nadbytečnou repliku. Nikdy však nedošlo k významovým změnám či posunům.
 
-_(Ivan Klíma – září 2010)_
+> _(Ivan Klíma – září 2010)_

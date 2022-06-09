@@ -3,8 +3,6 @@ title: Hra na pravdu
 contentType: prose
 ---
 
-  
-
 Nastoupil jsem u Libeňské sokolovny do tramvaje číslo čtrnáct, v ruce tři karafiáty, které v parném odpoledni rychle uvadaly. Dívka, se kterou jsem se pokoušel chodit už téměř rok, během něhož mne dvakrát opustila a dvakrát se ke mně vrátila, nepřišla na schůzku. Nejspíš se rozhodla opustit mě potřetí.
 
 Poslední dobou jsem se marně snažil udržet pohromadě své jistoty.
@@ -121,9 +119,9 @@ Její rty se vlhce a sladce přitiskly k mým. Hned mě však odstrčila: „T
 
 Doma jsem na svém stole pod vyčítavým matčiným lístkem (Je půlnoc a ty se ještě někde touláš!) našel dopis od otce z vězení. Byl napsán na linkované osmerce papíru, v záhlaví vedle oslovení se fialově vykružovalo razítko.
 
-Moji milí,
+> _Moji milí,_
 
-jistě si dovedete představit, že tu mám dosti času, abych přemýšlel o celém dosavadním životě, o všem svém snažení i o chybách, jichž jsem se dopustil. Největším mým omylem však bylo, že jsem všechno kolem sebe pozoroval jen jakoby zvenčí. Zvenčí všechno vypadá jednodušeji a mnohdy i lákavěji, ale člověk se tak může, to jsem pochopil až tady, i strašlivě mýlit. Často teď vzpomínám na svého otce: bylo mi asi deset let, když mi daroval k Vánocům drobnohled. Poradil mi, abych si na sklíčko kápl krůpěj obarvené vody, a zeptal se mě, jak si představuju, že bude vypadat. Odpověděl jsem, že bude čistá a průhledná. Netušil jsem vůbec, že ta čistá voda bude plná života. Dodnes si pamatuji na to množství ohromujícího pohybu. Škoda že můj otec zemřel, když jsem byl ještě malý, nestačil mi předat nic ze své moudrosti. Dělám si výčitky, že ačkoliv mi osud dopřál pobýti s Vámi déle, nebyl jsem asi dost moudrý, abych Vám vysvětlil, že tak mnoho věcí se zdá vypadat jinak, než ve skutečnosti jsou, a v duchu Vás prosím za odpuštění…
+> _jistě si dovedete představit, že tu mám dosti času, abych přemýšlel o celém dosavadním životě, o všem svém snažení i o chybách, jichž jsem se dopustil. Největším mým omylem však bylo, že jsem všechno kolem sebe pozoroval jen jakoby zvenčí. Zvenčí všechno vypadá jednodušeji a mnohdy i lákavěji, ale člověk se tak může, to jsem pochopil až tady, i strašlivě mýlit. Často teď vzpomínám na svého otce: bylo mi asi deset let, když mi daroval k Vánocům drobnohled. Poradil mi, abych si na sklíčko kápl krůpěj obarvené vody, a zeptal se mě, jak si představuju, že bude vypadat. Odpověděl jsem, že bude čistá a průhledná. Netušil jsem vůbec, že ta čistá voda bude plná života. Dodnes si pamatuji na to množství ohromujícího pohybu. Škoda že můj otec zemřel, když jsem byl ještě malý, nestačil mi předat nic ze své moudrosti. Dělám si výčitky, že ačkoliv mi osud dopřál pobýti s Vámi déle, nebyl jsem asi dost moudrý, abych Vám vysvětlil, že tak mnoho věcí se zdá vypadat jinak, než ve skutečnosti jsou, a v duchu Vás prosím za odpuštění…_
 
 Představil jsem si otce, který ležel někde v cele, zatímco já se toulám po vinárnách s cizí rozvedenou paničkou. Nejméně týden, rozhodl jsem se, budu snídat jen suchý chleba, nanosím si ho z menzy. A za ní už nepůjdu, nikdy už ji nechci vidět, není to žena pro mě.
 
@@ -149,7 +147,7 @@ Bylo k půlnoci, když jsem dorazil na stanici tramvaje, ještě mě zcela neop
 
 Strojopis stále více čpěl plynem. Naštěstí mi zbývalo jen několik posledních stránek.
 
-Rozpornost Stalinova charakteru i jeho úloha se ozřejmí, když ho srovnáme s jeho tak neblaze proslulým současníkem, s Hitlerem.
+> _Rozpornost Stalinova charakteru i jeho úloha se ozřejmí, když ho srovnáme s jeho tak neblaze proslulým současníkem, s Hitlerem._
 
 To bylo přece jen přespříliš. Zaváhal jsem. Ale už jsem propadl chvějivé rozkoši, jež působí závrať.
 
@@ -327,15 +325,15 @@ Doma jsem našel knihu zabalenou do modrého školního papíru. (_Nový trestn�
 
 Musel jsem napsat otci:
 
-Milý tati,
+> _Milý tati,_
 
-děkuji Ti ze všeho nejdřív za Tvůj krásný dopis a ujišťuju Tě, že se mýlíš aspoň v tom, že bys nám nepředal nic ze své moudrosti a neučil nás hledět pod povrch věcí a jevů. Spíše naopak, zdálo se mi, že vždycky usiluješ hledat kořen všeho (jako jsi mě učil hledat kořeny rovnic), co se zdá řešitelné, a to je vlastně jen opsání toho, co bych nazval hledání pravdy.
+> _děkuji Ti ze všeho nejdřív za Tvůj krásný dopis a ujišťuju Tě, že se mýlíš aspoň v tom, že bys nám nepředal nic ze své moudrosti a neučil nás hledět pod povrch věcí a jevů. Spíše naopak, zdálo se mi, že vždycky usiluješ hledat kořen všeho (jako jsi mě učil hledat kořeny rovnic), co se zdá řešitelné, a to je vlastně jen opsání toho, co bych nazval hledání pravdy._
 
-I já usiluji o totéž, a to, čím chci býti, vybral jsem si nejvíc proto, abych se mohl co nejhlouběji dobírat kořenů, a ujišťuju Tě, že všechno, co nás potkalo, přijímám jako podnět, abych přemýšlel o našem dosavadním životě.
+> _I já usiluji o totéž, a to, čím chci býti, vybral jsem si nejvíc proto, abych se mohl co nejhlouběji dobírat kořenů, a ujišťuju Tě, že všechno, co nás potkalo, přijímám jako podnět, abych přemýšlel o našem dosavadním životě._
 
 Uvažoval jsem chvíli, jak bych do dopisu zařadil zprávu o svých současných zážitcích, a pak jsem doplnil:
 
-Kromě toho i já nyní prožívám něco, o čem sice zatím nemohu nic bližšího povědět, protože ne všemu sám rozumím, ale co mi připadá jako dotyk opravdového života…
+> _Kromě toho i já nyní prožívám něco, o čem sice zatím nemohu nic bližšího povědět, protože ne všemu sám rozumím, ale co mi připadá jako dotyk opravdového života…_
 
 Váhal jsem nad poslední větou, zda jsem neprozradil příliš těm, kteří budou číst dopis ještě před otcem, ale pravděpodobnější mi připadalo, že ani otec nepochopí, co mám na mysli. Snad to tak bude lepší.
 
@@ -549,7 +547,7 @@ Slíbil jsem, že do zítřka něco vymyslím. Umluvili jsme si schůzku na př�
 
 Doma, ačkoliv už minula půlnoc, jsem vytáhl knihu zabalenou v modrém papíře a listoval v ní tak dlouho, dokud jsem nenalezl svůj paragraf.
 
-Kdo se hodnověrným způsobem doví, že někdo jiný chystá nebo spáchal velezradu (§ 78), sdružování proti republice (§§ 79 a 80), sabotáž (§§ 84 a 85), vyzvědačství (§§ 86 a 87), ohrožení státního tajemství…, a úmyslně takový trestný čin bez odkladu neoznámí prokurátoru nebo orgánu národní bezpečnosti, bude potrestán odnětím svobody na jeden rok až pět let.
+> _Kdo se hodnověrným způsobem doví, že někdo jiný chystá nebo spáchal velezradu (§ 78), sdružování proti republice (§§ 79 a 80), sabotáž (§§ 84 a 85), vyzvědačství (§§ 86 a 87), ohrožení státního tajemství…, a úmyslně takový trestný čin bez odkladu neoznámí prokurátoru nebo orgánu národní bezpečnosti, bude potrestán odnětím svobody na jeden rok až pět let._
 
 V této chvíli jsem byl na svobodě už jenom z dobré vůle osudu, jenom díky tomu, že jsme dosud nebyli odhaleni. Kdo by pak uvěřil v moji nevinu?
 
@@ -855,11 +853,11 @@ Zazvonil jsem, ale vevnitř se nic nepohnulo. Byl bych se dal nejraději na út�
 
 Vytáhl jsem lístek ze schránky. Stálo na něm.
 
-Milá Ivanko,
+> _Milá Ivanko,_
 
-předem přijmi můj pozdrav. Je mi líto, že jsem musela za kamarádkou, co je až v Teplicích. Ozvy se někdy!
+> _předem přijmi můj pozdrav. Je mi líto, že jsem musela za kamarádkou, co je až v Teplicích. Ozvy se někdy!_
 
-Těší se Tvá milující Vlasta
+> _Těší se Tvá milující Vlasta_
 
 Kam a za kým vlastně jela?
 
@@ -917,4 +915,4 @@ V sobotu, ještě před setměním, s kyticí karafiátů v ruce jsem se rozj
 
 Zašel jsem ještě do sousedních domů, ale došlo mi, že ji v téhle ulici sotva najdu.
 
-_(1980)_
+> _(1980)_

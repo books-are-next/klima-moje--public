@@ -3,8 +3,6 @@ title: Provazochodci
 contentType: prose
 ---
 
-  
-
 Byl poněkud pošmourný, větrný červencový podvečer, když jsem na svém starodávném bicyklu značky Eska dorazil k Otově dřevěné chatičce. Chata stála v ohybu řeky, která se v těchto místech podobala spíše poklidnému potoku. Voda se šplouchavě třela o kamenité břehy a listí osik tichounce šumělo. Místo bylo tak plné míru a pohody, že mi ihned vytanuli mí mrtví přátelé. Já slyším všechny ty něžné zvuky tady, zatímco oni už jsou navždy obklíčeni tichem.
 
 Snad to byl výsledek mé válečné zkušenosti anebo bolestínství obvyklého pro můj věk: nikdy jsem se zcela nedokázal oddat potěšení, radosti ani pocitu únavy. Jako bych nepřetržitě vnímal spojitost štěstí a zoufalství, svobody a úzkosti, života a zmaru. Měl jsem pocity, jaké asi mívá provazochodec, když kráčí po laně. Ať jsem sebeúporněji hleděl vzhůru, vnímal jsem propast pod sebou.
@@ -253,14 +251,14 @@ Díval jsem se za ní. Co jsem vlastně cítil? Štěstí? Úzkost? Sebeuspokoje
 
 Ráno byla ve schránce obálka pro mě. Ihned jsem poznal její drobné, úhledné písmo. Na lístku bylo osm veršů:
 
-Do skal už stín se přikrádá,  
+_Do skal už stín se přikrádá,  
 srdce se svírá jako v snách,  
 ve spáncích bijí na poplach  
 andělé, smrtka úzkosti,  
 zimnice zebe do kostí.  
 Tělem dlím dosud na zemi  
 jak bříza vrostlá v kameni,  
-duše však v hloub se propadá.
+duše však v hloub se propadá._
 
 Sám už jsem napsal několik básní, některé z nich jsem věnoval, nikdy jsem však nedostal verše, které by někdo věnoval mně. Teď když ke mně nedosáhl úpěnlivý pohled jejích očí, jenom její slova – znamení přízně –, poddal jsem se úplně pocitu štěstí. Jsem milován.
 
@@ -468,4 +466,4 @@ Co by vlastně řekla?
 
 Nedovedl jsem to v téhle chvíli posoudit.
 
-_(1980)_
+> _(1980)_

@@ -3,8 +3,6 @@ title: Miriam
 contentType: prose
 ---
 
-  
-
 Otcova sestřenice Sylva slavila svoje zasnoubení. Teta Sylva byla maličká, nosatá, opálená a výřečná. Před válkou pracovala jako účetní v bance, teď se stala zahradnicí, zatímco její nastávající – původním povoláním právník – byl zaměstnán na proviantuře. V čem jeho práce spočívala, jsem nevěděl, ale otec sliboval, že se na oslavě dočkáme překvapení, a významně mlaskl, čímž ve mně a v bratrovi vyvolal nadšený zájem.
 
 Teta bydlela v týchž kasárnách jako my, v komůrce s okénkem do chodby. Komůrka byla tak malá, že jsem si nedovedl představit, čemu kdy mohla sloužit. Nejspíš uložení nějakých drobností: třeba podkov, bičů (kasárna bývala jezdecká) anebo ostruh. V pokojíku měla teta postel a stolek, složený ze dvou kufrů. Na vrchním kufru prostřela teď ubrus a na několika papírových kartonech rozložila chlebíčky. Byly to opravdové chlebíčky obložené kousky salámu, sardinek, játrové paštiky, syrového tuřínu, okurky a skutečného sýra. Všiml jsem si, jak bratr začal hlasitě polykat sliny. Neuměl se ještě ovládat. Nechodil nikdy do školy; já ano, já už jsem četl o moudrém Odysseovi i o zapomnětlivém Paganelovi, a něco jsem tedy věděl o bozích i o ctnostech mužů.
@@ -251,4 +249,4 @@ Okamžik mi trvalo, než jsem se úplně vrátil do nemilosrdného světa. Ale m
 
 Pan Speero pokýval bílou hlavou. „Bůh s ní,“ řekl tiše, „a s námi všemi.“
 
-_(1979)_
+> _(1979)_
