@@ -3,8 +3,6 @@ title: In camera caritatis1
 contentType: prose
 ---
 
-  
-
 Byl mrňavý, podsaditý, černý, pod nosem nosil knírek jako nedávno vševládný vůdce a byl to vyhlášený pes. Vstoupil do naší třídy, která byla přemnožena půl stem nevzdělanců, z nichž někteří (jako já) neprošli vůbec žádným školením a jiní prošli školením protektorátním, a upozornil nás, že latina je jazyk vznešený, důležitý a libý. Mluvili jím i psali básníci božského nadání: Vergilius, Ovidius či Horatius, zakladatelé věd historických, jako Livius a Tacitus, i věd právních, jako Cicero. Také náš veliký mistr Jan Hus napsal některé ze svých děl v jazyku latinském. Zná snad někdo aspoň jejich názvy?
 
 Nikdo z nás neměl tušení.
@@ -85,20 +83,20 @@ O přestávce jsem na chodbě ukusoval ze svého krajíce a ploužil se někol
 
 Když jsem přišel domů, sklíčilo mě vědomí vlastní bezvýznamnosti. Čím jsem mohl přivábit pozornost bytosti, která tak zjevně duchem převyšovala své okolí? Nic významného jsem dosud nevykonal a student jsem byl spíše průměrný. Jedině snad mé slohy docházely jistého uznání. A to naše dobrotivá češtinářka netušila, že v černém osmerkovém sešitě skrývám ještě pozoruhodnější literární výplody. Vzklíčila ve mně naděje, vytáhl jsem ten sešit a chvíli v něm listoval:
 
-Moucha ti na nos usedla, což necítíš, pije ti krev,  
-ke slonu pravila gazela, dřív než ji pohltil lev.
+_Moucha ti na nos usedla, což necítíš, pije ti krev,  
+ke slonu pravila gazela, dřív než ji pohltil lev._
 
 Nebyl jsem si přitažlivostí svého veršování příliš jist, ale přitažlivost básnického osudu mi připadala nepochybná.
 
 Připomněl jsem si kolegu Viktora a nestoudnou vlezlost, s níž se pokoušel získat si Její pozornost, a ještě toho odpoledne jsem napsal báseň:
 
-Ubohá dívenko,  
+_Ubohá dívenko,  
 dnes jsem tě spatřil  
 k večeru uprostřed  
 mladíků pijících  
 každičkou vteřinu  
 zářivý amulet očí tvých.  
-Bože, tak strašlivě věřících.
+Bože, tak strašlivě věřících._
 
 Vlastní verše mě dojaly. Nadepsal jsem je: Neznámé! A dolů připsal: _Ze sbírky Žaly_. A iniciály svého jména. Pak jsem všechno ještě jednou krasopisně provedl na arch bělostného papíru a vložil ho do sbírky příkladů z matematiky.
 
@@ -106,7 +104,7 @@ Druhý den při hodině geometrie jsem dal svůj výtvor do oběhu. Snažil jsem
 
 Asi za půl hodiny se mi můj výplod vrátil. Na papír kdosi podvrhl (a signoval mými iniciálami) další báseň.
 
-Mé známé!  
+_Mé známé!  
 Amálie  
 blechy bije  
 pod stolem  
@@ -114,13 +112,13 @@ sochorem
 pod lavicí  
 rukavicí  
 za ňadry pěstí  
-(Ze sbírky Štěstí)
+(Ze sbírky Štěstí)_
 
 Věděl jsem, že k zasílání veršů už nenaleznu odvahu. Ale když jsem večer doma smolil latinský překlad, rozechvěl mě náhlý, ohromující nápad. Odstrčil jsem nenáviděný překlad, otevřel zásuvku, vytáhl z ní čistý linkovaný sešit a nejdříve ze všeho jsem nadepsal svoje jméno. Pod ně jsem umístil titul: VELIKÉ SRDCE. Román. Pak jsem ještě na další stránku napsal: Díl první. Chvíli jsem váhal, ale démon, který byl právě do mě vstoupil, mě hnal dál. Otočil jsem list a napsal: Část první.
 
 Tušil jsem, že napíšu rozsáhlé dílo. Neměl jsem představu, kolik dá práce napsat román, který se bude skládat z mnoha dílů a ještě většího počtu částí, ale zdálo se mi, že to svedu. Otočil jsem další list a nadepsal: Kapitola první. Magika jedniček mě vzrušovala. Přidal jsem ještě arabskou jedničku a pod ní hned začal první větu:
 
-Byl slunný horký den, paprsky se prodíraly větvovím věkovitých smrků a jedlí a kreslily v rozpáleném prachu silnice roztodivné obrazce – velebné ticho vládlo v tom velechrámu přírody.
+> _Byl slunný horký den, paprsky se prodíraly větvovím věkovitých smrků a jedlí a kreslily v rozpáleném prachu silnice roztodivné obrazce – velebné ticho vládlo v tom velechrámu přírody._
 
 Ó!
 
@@ -130,7 +128,7 @@ Druhý den ve škole jsem se jen stěží soustředil na výklad. Občas jsem vr
 
 Odpoledne, sotva jsem zhltnul oběd, vrhl jsem se ke svému sešitu. Chvíli jsem prodlel nad první stránkou, pak jsem obtáhl všechna písmena titulu. Opět do mě vstupovalo nadšení. Přečetl jsem těch dvanáct stránek z včerejšího dne a připadalo mi až neuvěřitelné, že to množství vět, co vět, těch složitých souvětí, která nejen nepostrádala smysl, ale dokonce skládala skutečný děj, jsem sepsal já. Když dneska napíšu zase dvanáct stránek, budu mít už za osm dní sto dvacet stran. Zítra je sobota, nesmím zapomenout koupit si nové sešity.
 
-Ó Lenko, ubohá! Tak mladá, tak nevinná a již nelítostné Parky ti určily tak krutý los. Leč nezoufej, neb i tobě může ještě zasvitnout slunko naděje. Vždyť lidé jsou dobří a najde se třeba čisté srdce, které bude bít jen pro tebe. Velké srdce, jež láska naplní.
+_Ó Lenko, ubohá! Tak mladá, tak nevinná a již nelítostné Parky ti určily tak krutý los. Leč nezoufej, neb i tobě může ještě zasvitnout slunko naděje. Vždyť lidé jsou dobří a najde se třeba čisté srdce, které bude bít jen pro tebe. Velké srdce, jež láska naplní._
 
 Srdce patřilo studentovi Jiřímu. Na první pohled poznal, že Lenku miluje. Tušil jsem, že jejich láska bude vzájemná, povznášející a šťastně zakončená, ale bude také klopýtat o překážky, těžce vykupována v boji s osudem.
 
@@ -146,7 +144,7 @@ Jen jsem se tedy otázal, jakou knihu má vlastně ráda, ale nechala mi to zcel
 
 Sotva jsem přišel domů, začal jsem se probírat svou nepříliš bohatou četbou, abych z ní vybral právě to dílo, jež by se mohlo stát výmluvným poslem mých citů. Autora jsem určil brzy – byl jím ten nebožák s obrovskou hlavou, Ivan Sergejevič Turgeněv. Za prvé jsem ho obdivoval, za druhé jsem od něho přečetl několik knih, a konečně a především psal mnoho o nešťastných láskách. Kdybych nemusel při své práci vystupovat pod cizím jménem, vybral bych si, už pro ten nádherně výmluvný titul, povídku První láska. (Jak krásně bych citoval: „Ó něžné city, lahodné zvuky, dobroto a tichnutí dojaté duše, rozplývající se radosti prvních pohnutí lásky – kde jste, kde jste?“) Líčila však tak zaujatě pocity dospívajícího chlapce, že jsem ji, nerad, uznal za nevhodnou. Rozhodl jsem se nakonec pro Asju. Ta dívka byla také poznamenaná, ne sice tělesnou vadou, ale původem. Byla něžná, krásná, vášnivá, plachá a přitom vzplanula stravující láskou k vypravěči příběhu, a co se mi líbilo nejvíc, vášeň ji dohnala k tomu, že mu ona sama učinila vyznání. Povídka navíc oplývala duchaplnými postřehy a aforismy:
 
-Kdybychom byli oba ptáci, jak bychom se vznesli, jak bychom letěli… Tak bychom ustrnuli v tomto modru… Ale nejsme ptáci… Ó pohlede ženy, která se zamilovala, kdo tě popíše?
+> _Kdybychom byli oba ptáci, jak bychom se vznesli, jak bychom letěli… Tak bychom ustrnuli v tomto modru… Ale nejsme ptáci… Ó pohlede ženy, která se zamilovala, kdo tě popíše?_
 
 Psal jsem skoro až do půlnoci. „Včera jsem před vámi plakala, kdybyste mi řekl jedno slovo, jen jedno slovo, byla bych zůstala. Neřekl jste. Tak je zřejmě lépe… Sbohem navždy!“
 
@@ -200,30 +198,30 @@ Stoupla si a svým sytým, libozvučným hlasem recitovala: Gallia est omnis di
 
 Teprve teď jsem dokázal postřehnout v jejím hlase, jemuž jsem se ještě nedávno tak obdivoval, který jsem snad dokonce ve své prostomyslnosti zbožňoval, stopy hnusné a licoměrné falše. Tušil jsem, že o tom všem, čeho je schopno proradné ženské srdce, napíšu jednou, možná už brzy, nový velký román.
 
-_(1980)_
+> _(1980)_
 
 * * *
 
-[1](./resources/undefined) V pokojíku lásky.
+_[1](./resources/undefined) V pokojíku lásky._
 
-[2](./resources/undefined) Nespravedlnost mocných.
+_[2](./resources/undefined) Nespravedlnost mocných._
 
-[3](./resources/undefined) Každého očekává jeho (poslední) den. Nic na celém světě netrvá věčně.
+_[3](./resources/undefined) Každého očekává jeho (poslední) den. Nic na celém světě netrvá věčně._
 
-[4](./resources/undefined) Ó třikrát čtyřikrát blažení! Ó jaká změna věcí.
+_[4](./resources/undefined) Ó třikrát čtyřikrát blažení! Ó jaká změna věcí._
 
-[5](./resources/undefined) Ó ty, který osudy lidí a bohů věrnou spravuješ vládou a bleskem je děsíš.
+_[5](./resources/undefined) Ó ty, který osudy lidí a bohů věrnou spravuješ vládou a bleskem je děsíš._
 
-[6](./resources/undefined) Milujícím není nic zatěžko.
+_[6](./resources/undefined) Milujícím není nic zatěžko._
 
-[7](./resources/undefined) Strnul jsem, vlasy se mi zježily a hlas uvázl v hrdle.
+_[7](./resources/undefined) Strnul jsem, vlasy se mi zježily a hlas uvázl v hrdle._
 
-[8](./resources/undefined) Ha, jaké vášně mě ženou.
+_[8](./resources/undefined) Ha, jaké vášně mě ženou._
 
-[9](./resources/undefined) Dokončil jsem pomník trvalejší než kov.
+_[9](./resources/undefined) Dokončil jsem pomník trvalejší než kov._
 
-[10](./resources/undefined) Kdybys byl mlčel, zůstal bys filozofem.
+_[10](./resources/undefined) Kdybys byl mlčel, zůstal bys filozofem._
 
-[11](./resources/undefined) Hrozné pohledět, hrozné povědět.
+_[11](./resources/undefined) Hrozné pohledět, hrozné povědět._
 
-[12](./resources/undefined) Ó klamná lidská naděje! Mysl se hrozí vzpomínky.
+_[12](./resources/undefined) Ó klamná lidská naděje! Mysl se hrozí vzpomínky._

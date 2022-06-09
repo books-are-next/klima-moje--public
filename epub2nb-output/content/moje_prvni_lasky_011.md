@@ -5,19 +5,17 @@ contentType: prose
 
 ## 1
 
-  
-
 Menza byla dlouhá a bezútěšná, hluboko v podzemí a její stěny, kromě zadní skleněné, měly jen slepé výklenky místo oken. Menzovní výbor se sice snažil zastřít jejich pustotu ručně malovaným desaterem:
 
-NEPOLIJEŠ!  
+**NEPOLIJEŠ!  
 NEZANECHÁŠ NÁDOBÍ ŠPINAVÉHO!  
-NEZAKOUŘÍŠ! …
+NEZAKOUŘÍŠ! …**
 
 ale sál tím příliš nezvlídněl a Tomáš i s kamarády nosili své obědy až ke skleněné stěně. Bylo tu více vzduchu, víc světla a stolek pod posledním článkem desatera měl jednu nohu kratší, nikdo u něho nesedal, a hodil se proto výborně k odkládání kabátů, aktovek a talířů od polévky.
 
 Zvykli si na toto místo, poslední stolek v druhé řadě, vystřihli z papíru velkého štíra, na něj napsali:
 
-BIOLOGIE – REZERVOVÁNO!
+**BIOLOGIE – REZERVOVÁNO!**
 
 Hned za skleněnou stěnou ležela malá zahrádka, dva keře modrého bezu, nízký akát, bílá magnólie a zlatý déšť, hnízdili tu kosi a párek hrdliček. Nevšímali si toho příliš, jenom ptákům v zimě házeli zbytky z talířů a jednoho dne skoro s podivem zjistili, že zatímco studovali kmen Nematoda, akátu vyrašily první lístky.
 
@@ -25,7 +23,7 @@ Když rozkvetl bez, u stolku s kratší nohou se objevila cizí dívka – sk
 
 Po celou dobu, kdy jedla, z ní téměř nespustili pohled a za celou tu dobu na ně ona ani jednou nepohlédla, jako by ani nevěděla, že vedle ní někdo sedí a že nad hlavou jí visí desáté přikázání:
 
-BUĎ PŘÍVĚTIVÝ K SOUDRUHŮM!
+**BUĎ PŘÍVĚTIVÝ K SOUDRUHŮM!**
 
 Když dojedla, otřela si ústa kapesníčkem, její pohled tkvěl přitom dokonale v prázdnu; potom vstala, na okamžik se ohlédla, teď si jich musela všimnout, ale nedala nic najevo a odběhla na vysokých tenkých podpatcích krátkými krůčky dokonalé sekretářky.
 
@@ -227,8 +225,8 @@ Napadlo ho něco úplně sebevražedného. „Zrovna tam jsem tě chtěl pozvat.
 
 Tu o tom červu znáš?
 
-Ukrytý do ulity,  
-prazvláštní červ si žil…
+_Ukrytý do ulity,  
+prazvláštní červ si žil…_
 
 Víš, jak se rozmnožuje Eunice viridis? Fuj!
 
@@ -341,8 +339,6 @@ Uviděl staropanenskou tvář, udivený pohled za brýlemi s tmavou obroučkou.
 Podala mu dva tvrdé kartónky. „Pospěšte si! Za čtyři minuty vám jede vlak,“ řekla.
 
 ## 2
-
-  
 
 Vůz se měkce pohupoval, za oknem plynula noc. V kupé seděli čtyři dělníci, tři hráli karty, čtvrtý seděl proti ní, pozoroval ji mlčky a kouřil.
 
@@ -616,17 +612,17 @@ Chce, abych mu řekla, že ho mám ráda. A chce se líbat. Musím mu to přece
 
 Tak ty mě miluješ, řekne, půjdeme tedy někam spolu, viď? Ne! Nějak jinak. Všemi silami se upínala k těm slovům a už k ní také přicházela, blížila se z veliké dálky: dvě světla na pusté svítající silnici, široké plátno, tichý šepot zpod plachty:
 
-Byl to nezapomenutelný večer. I kdybychom už spolu neprožili nic víc, stálo za to, že jsme se poznali. Ale už se nikdy neopustíme!
+> _Byl to nezapomenutelný večer. I kdybychom už spolu neprožili nic víc, stálo za to, že jsme se poznali. Ale už se nikdy neopustíme!_
 
 „Slíbila jsi mi…,“ řekl.
 
 „Nech toho pořád,“ okřikla ho. Tak nenáviděla všechny ty fráze. Spínaly se s ní. Patřily k sobě. A byly v ní. Nasákla jimi. Nedovedla nic než je. Nedovedla nic víc. Mohla ho jenom líbat!
 
-Tak ty mě miluješ? A půjdeme teď spolu, viď?
+> _Tak ty mě miluješ? A půjdeme teď spolu, viď?_
 
-Kam?
+> _Kam?_
 
-Třeba k tobě.
+> _Třeba k tobě._
 
 Snažila se zadržet ten film. Ale už se hrál.
 
@@ -698,4 +694,4 @@ Na velkých pouličních hodinách bylo půl šesté ráno, o půl deváté mě
 
 Lingulo, řekl jí v duchu. Lingula, odříkával si tiše, třída Brachio­poda, skořápky se otevírají nebo zavírají v přední volné části plášťových okrajů, jsou do nich zapuštěny štětiny. Jako celá tato skupina červů, má i Lingula blízké vztahy k řádu Phoronis…
 
-_(1962)_
+> _(1962)_

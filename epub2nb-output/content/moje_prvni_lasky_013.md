@@ -5,8 +5,6 @@ contentType: prose
 
 ## 1
 
-  
-
 Jasný fialový záblesk, pootevřela oči do toho světla, bouřka, uvědomila si, bouřka k ránu, okna se slabě roztřásla, zdvihla se v ní svíravá úzkost, měla bych se jít schovat k mámě, napadlo ji mimoděk, jenže už ne, už dávno ne! Zavřela pevně oči a kupodivu náhle se k ní vrátil pocit z dob, kdy se ještě utíkala pod ochranu: uklidňující pocit, snad jej způsobila bouře anebo to, že dlela v úplné blízkosti snů, anebo to, že doba, kdy se ještě utíkala, vlastně nebyla tak dávná.
 
 Pocit ji ovládl natolik, že dokonce vztáhla ruku do prázdna vedle sebe a zdálo se jí, že hmatá dlaň a slyší tichý dech; jaký asi bude den, který začíná bouřkou?
@@ -24,8 +22,6 @@ A stýská se jí, nemusí na nic myslet, stesk je v ní. Když se oblékne, v
 Je teprve ráno a slunce svítí do očí a nad ním nebesa se dvěma oblaky, jež pomalu a věkovitě plynou, jezero bez břehu s propadávajícími se čluny, modrá poušť s karavanou bílých slonů, plavím se a putuju; v úplném tichu slyší nehlučnou práci písku, přesýpání modravých dun a zvolna jako fata morgána se vynořuje silueta první věže a komínek nabodnutý vzhůru a obrovský podstavec pro obrovskou sochu – bez sochy, ta krásná pamětihodnost, a níž a níž, dolů po střechách – to je moje město – až k řece a nad řekou barevné hranolky s celofánem a tramvaje – oprýskané termosky – auta a nepatrná hnutí splývavých bodů – to jsou lidé, kdybych sestoupila, byla bych jako oni a někdo by možná měl radost a řekl by: Už tu zůstaň, nevracej se, ale ne, mně je tu dobře, i když mezi vámi by mi bylo taky dobře, mně je tu nejlíp, tady jsem sama, když chci, a nebudu sama, když nebudu chtít; a až tak blízko nebe, a nakonec větev podobná sově, a výš a výš až po poslední siluetu poslední věže a komínek nabodnutý do nebes, je teprve ráno a slunce stoupá, den měl takový sinavý začátek, ale teď – je jako strom z vlhké hlíny, jako pole, jako střecha obrácená ven z města. Chtělo by se jí něco podniknout, něco musím podniknout v takovém dni; obléknu si tu bílou skládanou sukni a mohla bych se jít koupat, nejspíš s Markétou, anebo jen tak, postavím se na konečné, sama – proč ne sama, určitě mi zastaví a svezu se někam, a možná že bude mladý a že potom řekne: Já vlastně nejedu nikam, to bylo jen tušení dneska ráno. A já odpovím: Nejen vaše, ale i moje tušení, jenže nejspíš to bude naopak: nějaký úplně otrávený, ženatý pán; ale na tom nezáleží, vystoupím někde, aby tam byly skály, a polezu vzhůru a potom tam nahoře, jako když jsme bývali spolu, jenže já sama si teď lehnu daleko od všech cest do vlažné jetelové trávy a budu čekat; a zavře tedy za sebou tiše dveře toho pokoje, spíše mansardy, v níž se už jen konec šňůry bude tichounce kolébat za zavřeným oknem a zavřenými dveřmi.
 
 ## 2
-
-  
 
 Cestou k tramvaji, v bílé skládané sukni a v zelené blůze, musí okolo staré barabizny s _Pozor, padá omítka_ a se dvěma ošklivými anděly nad vchodem, chvíli váhá, potom projde kolem jednorukého vrátného, vlastně jsem neměla, ještě tu potkám toho jejího, o kterém nemám vědět, už se s ním ani moc netají chudák mamka, s tím tlustým holohlavým obejdou. Zaklepe na dveře, potom je otevře, vylije se z nich zmatený rachot psacích strojů a také bledě modré zářivkové světlo a cigaretový pach s pachem laciné kávy, ale nevstoupí.
 
@@ -137,8 +133,6 @@ Pak uslyšela znovu skřípavý zvuk vrat a vzhlédla s jakousi marnou a hrů
 
 ## 3
 
-  
-
 K večeru, zatáhlo se opět a slunce zmizelo za kouřovou clonou, ji vysadili vojáci hned na kraji města, něco za ní ještě volali; netušila ráno, že se vrátí tak brzy, za tak úplného světla a v takové náladě – kam teď půjdu, musím za někým jít, mohla bych do kina, ale co v kině sama, taky se musím najíst, najím se a pak zavolám Markétě; jenže o čem budeme mluvit? V postranní uličce špinavá špeluňka, co sama u stolu, ale přece nepůjdu domů koukat se na ty dva.
 
 Sedí za neprostřeným stolem, ušpiněný číšník nosí piva a pro ni dršťkovou polévku; prsty se jí trochu chvějí: mám teda hlad, ještě že jím, že můžu jíst, i když je to hnusné a odporné maso.
@@ -233,8 +227,6 @@ Jsou pryč, za okny svítí okna, ležíš vedle mě, jako všichni milenci zemd
 
 ## 4
 
-  
-
 Je úplná tma a ticho, ti dva doma spí – máma, kdyby se vzbudila, snad bychom plakaly, ale proč – ona má svoje, ty stejné návraty, kolik takových návratů. Neotevře tedy ani dveře, vystoupá po úzkých točitých schodech, střecha se sklání a okno je malé a vysoko a není tu nic než krámy z dětství a plechové umývadlo, do něhož lze přinést z chodby vodu, a jedna skříň, žehlicí prkno s propáleným potahem, houpací židle a obrovský kotouč modré šňůry, už ne z konopí a teprve ne z papíru, ale z umělé hmoty mnohokrát pevnější než nejpevnější přírodní materiál, šňůry vhodné na převázání balíku se starými hadry a rozsýpavých kufrů a také na věšení prádla a zoufalců.
 
 Je unavená, taková podivná, beznadějná únava, která se ani netěší na spánek. Rozsvítí, je jí divné, že v tomhle pokoji byla minulého rána, jako by se to stalo v dávno uplynulém čase, na jehož konci stanula, anebo spíše jako by již stála na počátku zcela jiného času, svléká se pomalu, ačkoliv si ještě neroztáhla postel, na sukni objeví ohavnou temně rudou, už téměř zčernalou skvrnu, taková to byla krásná sukně, a chce se jí plakat nad bílou skládanou sukní a nad únavou a nad sebou a jde na chodbu a napustí umývadlo plné vody a potom vezme ten veliký kotouč modré šňůry, ale sotva odvine několik metrů, zmocní se jí ošklivost a šňůru opět svine, a když pak zapere skvrnu, přehodí sukni přes žehlicí prkno. Co mám teď dělat?
@@ -245,4 +237,4 @@ Zavřeným oknem se vkrádá noční vzduch, tak blízko pod nebem, ale hvězdy 
 
 A já sestupuji a jsem jako oni pod slabě zářícími lucernami, a někdo mě uvidí a řekne: Jsi naše sestřička, jsi tam tak sama, pojď, a já půjdu kamkoliv, ale půjdu – a budu se vznášet a padat, dokud…, a výš a výš až po poslední siluetu poslední věže a komínek nabodnutý vzhůru, a hvězdy, nepatrné nesmírné hvězdy, a musí před nimi přivřít oči a hvězdy zvolna hasnou, a místo toho tu stojí před ní s šedivou srstí a dlouhou šedivou hřívou, zem poprášená jinovatkou, louka se táhne od obzoru k obzoru a po ní se sune celé nesmírné stádo stejně ztepilých zvířat a ona leží uprostřed té louky a dívá se, a nechápe, jak někdo může zabíjet tyto překrásné tvory pro nepatrná a ošklivá zvířata v klecích, a dívá se, jak koně pohazují svými hrdými hlavami, a vidí, jak v nesmírném stádu se blíží k sobě a vzdalují se opět, a jak někteří se dotýkají navzájem hlavami, a vidí, jak se milují – koně – uprostřed louky, uprostřed jediného svého dne, jediné své noci, s hebkými šíjemi, ti volní koně, milenci na jedinou noc uprostřed dlouhé věčné mlčenlivé noci, a vidí tenkonohá hříbata, která pádí uprostřed stáda, bratříčkové moji, šeptá si a necítí už úzkost, její únava se vpila do stébel louky a ona je lehká tak, že může padat i vznášet se, a tak spí zpola svlečená v houpací židli, zatímco za průhledem ve střeše svítá a do pokoje padá trochu vlhké nevonné městské ráno a volný konec modré šňůry se tichounce kolébá v neviditelném proudění vzduchu.
 
-_(1964)_
+> _(1964)_
