@@ -3,6 +3,8 @@ title: Svatební cesta
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Silnice stoupala vzhůru v ostrých zákrutech.
@@ -262,3 +264,5 @@ Objal ji.
 „Já vím,“ zašeptala, „já to vím. Pse. Můj pse!“
 
 > _(1969)_
+
+</section>

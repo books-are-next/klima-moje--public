@@ -3,6 +3,8 @@ title: Nebe, peklo, ráj
 contentType: prose
 ---
 
+<section>
+
 Pokoj byl blankytně modrý, lůžka stála v řadě za sebou; v místnosti byl ještě gauč, stolek, dvě křesla, židle, telefon, rozhlas po drátě a koš na papír. Vše bylo vyvedeno ve světlém dubu a v černém kovu. Také potahy byly černé. Muž stál u okna. „Je tu horko,“ řekl. „Nezdá se ti, že tu je horko?“ Byl starší než ona. Měl právě Kristův věk, ale toho večera vypadala jeho neoholená tvář s unavenýma očima ještě starší.
 
 „To je dobře,“ prohlásila, „já mám ráda horko.“
@@ -163,10 +165,18 @@ Hrál si s listem papíru a skoro přitom podřimoval.
 
 „To je taková skládačka,“ řekl. Zastrčil prsty do papírových kapes a rozevřel a opět zavřel papírovou tlamu.
 
+</section>
+
+<section>
+
 _Nebe, peklo, ráj,  
 kam tě, duše, dám,  
 do nebíčka, do peklíčka,  
 šupy, šupy tam._
+
+</section>
+
+<section>
 
 „Kde jsi teď?“ zeptala se.
 
@@ -438,4 +448,10 @@ Vstala rychle a otřela si ústa. Druhou rukou přitáhla pokrývku, aby zakryl
 
 Zrzavý si všiml papírové skládačky. „Nebe, peklo, ráj,“ pronesl téměř něžně. „Ráj,“ opakoval a díval se na ni pln zvědavé dychtivosti.
 
+</section>
+
+<section>
+
 > _(1968)_
+
+</section>

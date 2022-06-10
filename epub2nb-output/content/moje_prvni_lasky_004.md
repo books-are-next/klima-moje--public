@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Moje první lásky (a jiné milostné povídky)](https://search.mlp.cz/cz/titul/moje-prvni-lasky-a-jine-milostne-povidky/3451911/#book-content) tak, jak bylo vydáno nakladatelstvím Academia v Praze v roce 2010. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,4 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 19. 3. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

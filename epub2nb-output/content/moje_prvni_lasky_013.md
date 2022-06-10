@@ -3,6 +3,8 @@ title: Poprava koně
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Jasný fialový záblesk, pootevřela oči do toho světla, bouřka, uvědomila si, bouřka k ránu, okna se slabě roztřásla, zdvihla se v ní svíravá úzkost, měla bych se jít schovat k mámě, napadlo ji mimoděk, jenže už ne, už dávno ne! Zavřela pevně oči a kupodivu náhle se k ní vrátil pocit z dob, kdy se ještě utíkala pod ochranu: uklidňující pocit, snad jej způsobila bouře anebo to, že dlela v úplné blízkosti snů, anebo to, že doba, kdy se ještě utíkala, vlastně nebyla tak dávná.
@@ -238,3 +240,5 @@ Zavřeným oknem se vkrádá noční vzduch, tak blízko pod nebem, ale hvězdy 
 A já sestupuji a jsem jako oni pod slabě zářícími lucernami, a někdo mě uvidí a řekne: Jsi naše sestřička, jsi tam tak sama, pojď, a já půjdu kamkoliv, ale půjdu – a budu se vznášet a padat, dokud…, a výš a výš až po poslední siluetu poslední věže a komínek nabodnutý vzhůru, a hvězdy, nepatrné nesmírné hvězdy, a musí před nimi přivřít oči a hvězdy zvolna hasnou, a místo toho tu stojí před ní s šedivou srstí a dlouhou šedivou hřívou, zem poprášená jinovatkou, louka se táhne od obzoru k obzoru a po ní se sune celé nesmírné stádo stejně ztepilých zvířat a ona leží uprostřed té louky a dívá se, a nechápe, jak někdo může zabíjet tyto překrásné tvory pro nepatrná a ošklivá zvířata v klecích, a dívá se, jak koně pohazují svými hrdými hlavami, a vidí, jak v nesmírném stádu se blíží k sobě a vzdalují se opět, a jak někteří se dotýkají navzájem hlavami, a vidí, jak se milují – koně – uprostřed louky, uprostřed jediného svého dne, jediné své noci, s hebkými šíjemi, ti volní koně, milenci na jedinou noc uprostřed dlouhé věčné mlčenlivé noci, a vidí tenkonohá hříbata, která pádí uprostřed stáda, bratříčkové moji, šeptá si a necítí už úzkost, její únava se vpila do stébel louky a ona je lehká tak, že může padat i vznášet se, a tak spí zpola svlečená v houpací židli, zatímco za průhledem ve střeše svítá a do pokoje padá trochu vlhké nevonné městské ráno a volný konec modré šňůry se tichounce kolébá v neviditelném proudění vzduchu.
 
 > _(1964)_
+
+</section>
