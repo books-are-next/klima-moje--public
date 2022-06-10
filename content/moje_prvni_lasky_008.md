@@ -3,6 +3,8 @@ title: Má vlast
 contentType: prose
 ---
 
+<section>
+
 Vystoupili jsme na malé staničce uprostřed lesů. Matka se tvářila unaveně a trpitelsky, otec vláčel dva obrovské kufry a snažil se nám úsměvem dodat sebejistoty. Také já s bratrem jsme nesli každý po kufru a byli jsme zvědaví, co se bude dít.
 
 Krajina, kam jsem až dohlédl, se zdála rovná jako placka. To se mi zamlouvalo, protože po rovině se člověk dovede pohybovat rychleji. Na nějaké lezení po horách by mi nezbyl čas. Vzal jsem si totiž s sebou pět objemných svazků děl napsaných velkými mistry světové prózy a hodlal jsem je v co nejkratší době přečíst. Kromě toho jsem měl za úkol poznávat život.
@@ -35,10 +37,18 @@ Ani ne za hodinu otec šťasten klečel u rozebraného elektromotoru, matka ned
 
 Hostinec se zřejmě podle svého majitele jmenoval U Štěrbáků, což hlásala rudá písmena na bílé tabuli. Na menší tabuli pod zelenými rybími papulami se oznamovalo, že:
 
+</section>
+
+<section>
+
 _Tady se obědvá, večeří, snídá  
 a vždycky předobře jídá.  
 Kdo miluje pochoutky rybí,  
 když nevstoupí, velice chybí!_
+
+</section>
+
+<section>
 
 Vstoupili jsme tedy a ihned nám vyšel vstříc muž s tužkou za uchem, vycenil na nás zlaté zuby a přivítal se s panem Pavelcem. Černé kalhoty měl přepásané modrobílou zástěrou, která stěží dokázala zakrýt jeho mohutný pivní břich.
 
@@ -66,11 +76,19 @@ Za chvíli se na cestě, která vedla loukou k řece, objevila žlutovlasá op�
 
 Velký Mistr Maxim Gorkij psal:
 
+</section>
+
+<section>
+
 > _„Zpívej, nebo zhyneš!“ křičí Petrovskij a Ljoska rozpíná ruce a říká: „Zamilovala jsem se do něho, říkám to přede všemi – zamilovala, až se mi nohy třesou.“ A za chvilku všichni nenasytně žádají ještě něco. Vím, že to jsou nehodní lidé, ale kráse vzdávají nábožnou úctu, slouží jí do úplného zapomenutí sebe samých, opájejí se jejím jedem a byli by pro ni s to i zabít. Z toho rozporu vzniká ve mně záplava nejasného stesku, který mě dusí. U nich však šílenství dostupuje nejvyššího vrcholu, ale všechny písně jsou už přezpívány, tance skončeny._
 
 > _„Svlíkej ženský,“ řve Petrovskij._
 
 > _Vždycky je svlékal Stěpanichin, nespěchal při tom, rozvazoval pečlivě kalounky, rozepínal háčky a řádně skládal blůzy, sukně, košile. Muži si prohlíželi krásné Ljosčino tělo, opatrně se dotýkali jejích vyzývavých prsou, pěkně rostlých nohou, nádherného břicha, chodili kolem žen vzdychajíce údivem a velebili jejich těla tak nadšeně jako píseň a tanec. Poté šli znovu ke stolu do malého pokojíka, jedli, pili a – začínala se nepopsatelná podívaná plná hrůzy._
+
+</section>
+
+<section>
 
 Večeře se podávala v nevelké jídelně, v níž bylo jenom šest stolů. U sousedního jsem hned zpozoroval žlutovlasou paní s oběma děvčaty. Byla to na první pohled dáma, aspoň pokud se dámy odlišují od obyčejných žen množstvím šperků, hedvábnými šaty, namalovanými ústy a vznešeným držením hlavy. Lebku měla kulatou a spíše malou, oči stejné barvy jako šaty. U stolu s nimi seděl chlap s koňským vzezřením. Když se naše rodina usadila, chlap povstal, vycenil zuby, které se skvěle hodily do jeho tlamy (byly žluté, tupě mohutné a dobře uzpůsobené ke žvýkání sena), napřáhl k otci ruku, jejíž prostředníček byl žlutohnědý od dehtu a nikotinu, anebo co to barví prsty kuřáků, a oznámil, že je doktor Slavík z Dejvic a tamhleto je jeho rodina: žena Pavla, dvojčata Miluše a Růžena. Otec oplátkou sdělil, že on je inženýr, rovněž z Prahy, zkonstruoval svářečku, kterou už jistě pan doktor někde zahlédl, já jsem student septimán (skončil jsem právě kvintu, takže se otec kupodivu spletl jenom o rok), druhý jeho syn, zmínil otec bratra, je dosud dítě. O matce se nezmínil, neboť věděl, že matka chová nedůvěru ke všem cizím lidem, a od té doby, kdy jí lékaři stanovili falešnou diagnózu, k doktorům zvláště.
 
@@ -98,6 +116,10 @@ Taky já se na chvíli duchem vzdálil a myslel na to, že večer osamím v ho
 
 Velký Mistr Maxim Gorkij pokračoval:
 
+</section>
+
+<section>
+
 > _V každém z nich žilo, zmítalo se něco temného, strašlivého. Ženské ječely bolestí, jak je muži kousali a štípali, ale přijímaly jejich surovosti jako nutnost, dokonce jako něco příjemného, a Ljoska úmyslně dráždila Petrovského vyzývavými výkřiky:_
 
 > _„Tak ještě! Štípej, no tak!“_
@@ -105,6 +127,10 @@ Velký Mistr Maxim Gorkij pokračoval:
 > _Její kočičí oči se rozšířily a vypadala v tu chvíli jako mučednice na nějakém obrázku. Bál jsem se, že ji Petrovskij utluče… Nyní se mi zdá, že se přede mnou odehrávalo těžké drama zápasu dvou prvků: živočišnosti a lidskosti: člověk se pokouší najednou a navždy ukojit v sobě živočišnou touhu, osvobodit se od jejích nenasytných tužeb, ale ona se v něm rozrůstá a stále víc ho zotročuje._
 
 > _Ale tehdy ve mně tyto bujné svátky smyslného chtíče vzbuzovaly odpor a smutek, a současně jsem litoval tyto lidi, zejména ženy. Ačkoliv jsem se velice trápil, přece jen jsem se nechtěl vzdát účasti na šílenstvích „mnišského života“, vznešeně řečeno, trpěl jsem tehdy fanatismem poznávání, ničil mě a lákal za sebou „fanatik poznání – satanáš“._
+
+</section>
+
+<section>
 
 Zezdola zazníval hlas. Jakmile jsem se do něho zaposlouchal, rozeznal jsem známý altový smích své sousedky. Co tam dole dělají? Čemu se smějí?
 
@@ -248,18 +274,34 @@ Sešli jsme oba dolů. Ve dveřích kuchyně stál pan doktor ve vysokých gumov
 
 Paní Štěrbáková se opravdu objevila a před sebou spíš tlačila, než nesla, obrovitý kameninový hrnec. Doktor Slavík otevřel svoji nepromokavou brašnu a začal z ní vyhazovat kluzká rybí těla, přitom se hlasitě radoval: „To jsou mackové, co?“ Pak se obrátil k paní Štěrbákové a zarecitoval:
 
+</section>
+
+<section>
+
 _„Jestliže je hrnec od slovesa hráti,  
 od čeho pak slovo srnec,  
 smím-li se vás ptáti?“_
+
+</section>
+
+<section>
 
 „Ale pane doktore,“ paní hostinská byla kulatá, růžolící a dobromyslná, „odkud vy tyhle veršovánky nosíte?“
 
 „Od pacientů, paní Štěrbáková!“ pravil doktor Slavík a s vykasanými rukávy lovil ryby ze své brašny. „A tuhle znáte?“ A pak doktor zazpíval:
 
+</section>
+
+<section>
+
 _„Nechci já maličké ženy,  
 ty ji maj při samé zemi,  
 a když je veliký bláto,  
 voda jim stříká až na to!“_
+
+</section>
+
+<section>
 
 Vyhodil poslední rybu do krajáče, paní hostinská se radostně smála, zatímco paní doktorová se na mě podívala, jako by mi chtěla říct: nezlobte se, já už se taky nezlobím, takový mám život! A já byl rád, že tu není moje matka. Kdyby uslyšela tolik pohoršlivých veršů, jistě bychom ještě dnes balili kufry.
 
@@ -309,11 +351,19 @@ A tak to šlo pořád dál. Přímo jsem si zoufal, když jsem viděl, jak se p
 
 V příští hře, když pan učitel ohlásil, že sedm kulí se na vás špulí, pan Feuerstein, snad aby se zavděčil, volal velkým hlasem: „Flek!“ A potom ještě: „Tuti boty!“ a stálo to jeho i pana doktora rovných dvacet čtyři koruny a zrzavý hasič si jen tiše povzdechl, že co se mělo stát, stalo se, zatímco pan doktor zoufale zasténal, že pan Feuerstein musí být zamilovaný, a zazpíval:
 
+</section>
+
+<section>
+
 _„Spadla píča na hasiča,  
 přikryla ho chlupama.  
 Hasič křičí:  
 Už jsem v píči,  
 už jsem tam i s kulama.“_
+
+</section>
+
+<section>
 
 A já, ačkoliv jsem stále nerozuměl ničemu z toho, co se přede mnou odehrávalo, jsem byl tou hrou stržen, skoro jsem nedýchal, a když se znovu rozdávaly karty, přímo jsem vnímal, jak se v horkém vzduchu lokálu vznášejí naděje, a v té chvíli jsem zapomněl na všechno, co jindy poutalo moji mysl: na své plány, na svoje poslání, na díla velkých mistrů, na matku, otce i bratra, dokonce i na krásnou paní doktorovou, která se nejspíš v téhle chvíli kladla na lože za zdí mého pokojíku, a připadalo mi, že všichni musí být stejně zmámeni.
 
@@ -355,7 +405,15 @@ Jenže pan učitel ho nevnímal. Vstal a do prázdna, které nalezl nad našimi
 
 Veliký Mistr Stendhal psal:
 
+</section>
+
+<section>
+
 > _Paní de Rênal byla Juliánovým příchodem na smrt polekána, zmocnila se jí hrůza. Jeho pláč i zoufalství ji připravily o rozvahu. Dokonce i když mu již neměla co odepřít, odstrkovala Juliána s opravdovým rozhořčením od sebe, ale hned nato se mu vrhla do náruče. Počínala si jako smyslů zbavená. Byla přesvědčena, že je bez milosrdenství odsouzena k věčnému zatracení, a myšlenky na peklo se snažila přehlušit nejvášnivějšími polibky. K Juliánovu štěstí by nebylo chybělo nic, ani žhoucí citovost ženy, která se mu právě oddala, kdyby se byl z toho dovedl těšit… „Pane Bože! Být šťasten, být milován je pouze toto?“ bylo první myšlenkou Juliánovou, když se vrátil do pokoje._
+
+</section>
+
+<section>
 
 Druhý den ráno, když jsem vyhlédl oknem, spatřil jsem k svému úžasu na větvi kaštanu sedět zrzavého pana Feuersteina. Ještě dřív, než jsem stačil postřehnout, co tam pohledává, všiml si mě a zamával mi jakýmsi předmětem, který jsem nedokázal určit, ale mohl to být onen zmiňovaný tomahavk, a já, protože jsem si nebyl jist, bylo-li to gesto míněno přátelsky, anebo naopak výhrůžně, jsem raději od okna odstoupil. Když jsem si za chvíli dodal odvahy a opět vyhlédl, zrzavý hasič už na stromě nebyl, jen z větví visely podivné a pestré cancoury provazů či snad drátů, jejichž účel jsem nepochopil.
 
@@ -369,8 +427,16 @@ Vesnice zela pustotou, dokonce i psi zemdleně zalezli do svých bud a nevěno
 
 Zastavil jsem se před vesnickým krámkem a civěl na barevné tabule, které purpurově chválily Velimskou cikorku, blankytně Oetkerovy prášky do pečiva a červenobíle mýdlo Helada. Ve verších pak opěvovaly prací prostředky.
 
+</section>
+
+<section>
+
 _OTAMÍR, ten pere lehce,  
 špína pustí, ať chce nechce!_
+
+</section>
+
+<section>
 
 Ze dveří vyšel pan Anton. Nenesl housle, zato i v tom předpoledním žáru byl oděn jako koncertní mistr v černý oblek s vestou, bílé vlasy mu schoval staromódní kulatý klobouk.
 
@@ -414,10 +480,18 @@ Na hrobě ve dvou řadách kvetly bílé a žluté růže. Zalili jsme je, poto
 
 Pod jménem s datem jsem rozeznal vybledlé čtyřverší:
 
+</section>
+
+<section>
+
 _Bůh vyměřil dny žití Tobě,  
 kdo se Tě víc dovolá?  
 Dřímej, milá ženo, v tomto hrobě.  
 Až v život věčný Bůh Tě povolá._
+
+</section>
+
+<section>
 
 Pan Anton polohlasně pronášel slova nějaké modlitby. Vzdálil jsem se stranou, abych ho nerušil.
 
@@ -479,8 +553,16 @@ Cítil jsem zvláštní vzrušení, také úzkost z vědomí, že tady za tou z
 
 „Tak a dost,“ skoro křičela paní doktorová, „uvidíš, že za rok půjdeme spolu…,“ a ztišila teď hlas tak, že jsem neslyšel ani slovo; vstal jsem tedy konečně ze svého stinného místa a přešel na druhou stranu cesty. Ještě jednou jsem se však ohlédl a s překvapením si všiml, že se u plotu válí plechová tabulka podobná těm, které ověnčovaly vchod do místního krámu. Červený rak s obrovitými klepety jako by se už chystal stisknout svoji oběť:
 
+</section>
+
+<section>
+
 _Rada do života:  
 vlasům šampon Otta._
+
+</section>
+
+<section>
 
 Hned po večeři se objevil ve dveřích lokálu pan Štěrbák, tentokrát bez zástěrky, ale v černých kalhotách a v bílé košili se slavnostním motýlkem. Oznámil, že pro nás všechny uchystal malé překvapení a zve nás, abychom ho následovali.
 
@@ -490,10 +572,18 @@ Všichni, kdo seděli v jídelně, opravdu povstali; dokonce i otec, který ob
 
 Mezitím sestoupil ze svých výšin pan Feuerstein i s harmonikou a pan doktor, zřejmě unaven vážností svého projevu, si od něho harmoniku vypůjčil a zahrál jemu i nám píseň:
 
+</section>
+
+<section>
+
 _Ať kde božím poslem, nehodou či žhářem  
 vzešel požár, hasit spěchá řádný hasič,  
 jen my slaboši, my starci nebe kářem:  
 Strhněte se mračna! Liják v oheň zasyč!_
+
+</section>
+
+<section>
 
 Když skončil, jeho paní se naklonila ke starému komorníkovi a svým něžným hlubokým hlasem ho poprosila, aby pověděl něco ze starých knížecích časů, a protože se stařík zdráhal, dodala, že ji jeho příběhy, ať se jakkoliv rmoutila, dovedly vždycky potěšit. A pan Anton se na ni usmál a řekl, že to bude tím, že v časech, na které vzpomíná, se ještě jinak žilo, nechce tvrdit, že líp, ale rozhodně klidněji. Pak vyprávěl, jak když se před čtyřiceti lety lovil rybník Bezdrev, jeden mladý pěšák jménem Škédl se napil, a že dostal kuráž, otočil jednu kapitální štiku a schoval si ji pod lovečku. Ale kabát měl krátký a nevšiml si, že mu zpod něho čouhá štičí ocas. Z hráze přihlíželi výlovu všichni páni: porybný, ředitel rybářství, ředitel velkostatku i sama Jeho Jasnost.
 
@@ -551,7 +641,15 @@ Když otec skončil, doktor Slavík jen řekl: „Zazvonil zvonec a pohádky by
 
 Velký Mistr Balzac napsal:
 
+</section>
+
+<section>
+
 > _A štěstí, kterému se Lucien těšil, byly uskutečněné sny básníků, kteří bez jediného haléře někde v podkroví hladovějí. Ester, ideál zamilované kurtizány, Lucienovi více připomínala Coralii, herečku, s níž rok žil, ale úplně ji zastínila. Všechny milující a oddané ženy touží žít jako perla na dně mořském, vyhledávajíce ústraní a inkognito; ale u většiny z nich jde o půvabný rozmar, o kterém se tak pěkně povídá, o důkaz lásky, jejž by tak rády podaly, který však nepodají; kdežto Ester, která stále ještě prožívala jitro po prvním milostném blahu a byla neustále pod vlivem Lucienova prvního žhářského pohledu, neprojevila za čtyři léta ani špetku zvědavosti… Ani při nejopojnějších rozkoších nezneužívala bezmezné moci, kterou milované ženě dává znovu se rodící žádost milencova…_
+
+</section>
+
+<section>
 
 Druhý den ráno jsem zaspal. Když jsem přišel k snídani, seděl v jídelně už jen zasmušilý pan Halama. Pozdravil jsem ho a on ke mně obrátil popelavou, slunci vzdorující tvář: „Taky se vám dneska ani nechtělo probudit?“
 
@@ -579,9 +677,17 @@ Vydal jsem se na zpáteční cestu oklikou. Došel jsem ke Staré řece, kde ces
 
 Jak mě zahlédl, už volal:
 
+</section>
+
+<section>
+
 _„U vody Madlenka prala,  
 ze břehu na ni Kačenka s ra a s ra-  
 dostí koukala…“_
+
+</section>
+
+<section>
 
 Pak se mě zeptal, jestli jsem někde holkám proháněl sukně. Vrtěl jsem hlavou, on zatím vyndal udici, vzal z plechové krabice od Hagenbeckova čaje kousek sýra a vyměnil návnadu. „Co bysme si povídali?“ řekl a znovu nahodil. „Taky mi bylo sedmnáct. Znáš to v Plzni?“
 
@@ -599,8 +705,16 @@ Pan doktor si už přehodil přes rameno rybářskou brašnu, uchopil prut a ř
 
 Čekal jsem netrpělivě, že dodá něco na vysvětlenou, ale on si začal polohlasně prozpěvovat:
 
+</section>
+
+<section>
+
 _„Začali rybáři rybníky spouštět  
 a mě má maminka nechce ven pouštět…“_
+
+</section>
+
+<section>
 
 Šli jsme kolem řeky, která se klikatila v lukách, někdy jsme se téměř prodírali houštím a rákosovým porostem, už jsem si netroufal začít řeč, tu se pan doktor ke mně zničehonic otočil a řekl, že jsem zoufalého drogistu dobře připomněl, protože pan Halama by mohl výborně posloužit za příklad toho, co s člověkem může udělat ženská. Pan Halama býval veselý člověk, měl pěknou mládeneckou mansardu na Žižkově, zdi polepené pohlednicemi a plakáty pěkných holek, všude plno zajímavých knížek, křivulí a flaštiček s různými jedy, ten člověk totiž ve své branži něco znamenal. Každou chvíli dal do prodeje nějakou vlastní pastu na parkety, omyvatelný nátěr na zeď anebo voňavé mýdlo Clamor amoris, což, jak jistě rozumím, značí jásot lásky. Růžové s vůní pro ženy a zelené s vůní pro muže, a vlastnoručně sepsal leták, v němž dokazoval, že kdo se tím mýdlem celý omyje a navoní, stane se neodolatelným pro druhé pohlaví, a nejspíš prodal svůj výrobek té semetrice, protože od chvíle, kdy ji spatřil, byl ztracen, ačkoliv ženská byla ošklivá jako noc, starší o osm let a menší o dvě hlavy. Dokonce si ji nastěhoval do svého útulného bytu, pustil ji do krámu a nejen to, začal ji obskakovat a obsluhovat, a ještě ke všemu na ni žárlil. A žárlívá tak, že jednoho dne už to nevydrží, ztropí scénu jako na divadle, pak sebere odřenou aktovku a uprchne ze svého domova, v němž už dávno na stěnách nevisí podobizny krásných holek, ale ozdobné dečky, na kterých se zlatě skví vyšité blbiny jako: _Kdo důvěry nemá v sebe – vzdálen svého štěstí nebe._ Anebo: _Spokojenost – ku štěstí most!_ Přijede pak sem, aby se trochu vzpamatoval a uklidnil. Ale jak se má uklidnit, když vlastně od první chvíle jen čeká, až si ho ta ježibaba zase vyzvedne?
 
@@ -608,10 +722,18 @@ Je vlastně kupodivu, že se tu ještě neukázala – obvykle přijede do tř�
 
 A pan doktor, zatímco já zapuzoval zklamání nad všedností tohohle příběhu, si opět notoval:
 
+</section>
+
+<section>
+
 _Zatáhli rybáři nevody dvakrát,  
 proč se mi chce tolikrát plakat?  
 Rybáři, rybáři, vemte mě s sebou,  
 tváře mi hořejí, nožičky zebou._
+
+</section>
+
+<section>
 
 Večer se konečně můj bratr dočkal. Matka koupila od pana Pavelce bandasku mléka, já jsem nesl očazený vojenský kotlík, který otec za posledních dnů války ukořistil někde v Meklenbursku, bratr si vyprosil, aby plechovku, na níž byl obrázek sličné Holanďanky v dřevácích, směl nést sám.
 
@@ -639,20 +761,36 @@ Otec uchopil kotlík, matka mu podávala šálky a otec do nich opatrně nalév
 
 Velký Mistr Šolochov psal:
 
+</section>
+
+<section>
+
 > _Světlo, které uhodilo Grigorije do očí, na vteřinu ho oslepilo; za­clonil si oči dlaní a obrátil se, zaslechnuv vzrůstající hluk v koutě konírny. Dotýkaje se rukou zdi, šel tam, na zemi a na jeslích proti dveřím tančila sluneční skvrna. Grigorij kráčel mhouře oči oslepené světlem. Proti němu šel vtipkař Žarkov. Šel zapínaje si při chůzi poklopec padajících kalhot a pokyvoval hlavou._
 
 > _„Co tady děláš…? Co tady máte?“_
 
 > _„Pospěš si!“ zašeptal Žarkov, dýchna Grigorijovi do tváře zápach špinavých úst, „tam… tam je to báječné…! Hoši tam zatáhli Franju… Roztáhli…“ Žarkov se zachechtal, ale přestal hned udeřiv zády o roubenou stěnu konírny, jsa odhozen Grigorijem. Grigorij běžel po hluku a v jeho rozšířených, na tmu si již navyknuvších očích se bělel strach. V koutě, kde byly složeny přikrývky na koně, byla hustá tlupa kozáků – celá první četa… Na zemi ležela Franja v bezvědomí se strašně roztaženýma nohama, bělajícíma se v temnotě, ani se nehýbajíc. Její hlava byla zamotána do pokrývek a rozervaná sukně byla vyhrnuta až po prsa. Zrovna z ní vstal kozák, přidržuje si kalhoty odcházel ke stěně, dělaje místo druhému._
 
+</section>
+
+<section>
+
 Na představení Strakonického dudáka jsem se z naší rodiny vypravil skutečně jenom já. Matku bolela hlava a otce divadelní hry nezajímaly. Bratr sice nesměle nadhodil, že dosud nikdy nespatřil ochotnické představení, ale matka ho odbyla: přece nejel na prázdniny proto, aby dýchal zkažený vzduch v nějakém zaplivaném sále. Bratrovi bylo teprve deset, a tak mu nezbylo, než aby se poddal. A tak jsem tedy oblečen do svých jediných šatů, které na mně dík své buničité podstatě visely jako na polním hastroši, teď mohl kráčet sám po boku voňavé a spanilé paní doktorové. Cesta do Chlumu vedla stařičkou alejí, a protože slunce už se nachylovalo k západu, stíny stromů se spojily a docela nás přikryly chladivým příkrovem.
 
 Dvojčata Miluše a Růžena, dosud jsem se nenaučil rozeznávat je, šla, anebo spíš poskakovala kus před námi a mně se zdálo, že paní doktorová je ráda, neboť se jí se mnou pěkně rozmlouvá. Vyptávala se mě na knihy, které s sebou stále nosím, vytáhla dokonce ze mě i to, že už jsem sám napsal několik básní a povídek. Žádala ihned, abych některou ze svých básní přednesl, ale odmítl jsem, ani ne tak ze skromnosti, jako spíše ze strachu, že si je nepamatuji dost dobře a nerad bych se trapně zakoktal. Ona však, ačkoliv neměla možnost posoudit míru mého umění či neumění, projevovala nadšení nad tím, že může kráčet po boku mladého básníka. Snad už zapomněla na svůj nedávný hořký odsudek veškerého spisování a řekla, že ten student, o němž se mi zmínila, taky skládal verše, jednu báseň jí dokonce napsal do památníku.
+
+</section>
+
+<section>
 
 _Když stýskáš si, že žití tvé je  
 na radosti a štěstí chudé,  
 tu připomeň si tato slova:  
 Jen důvěru – zas lépe bude!_
+
+</section>
+
+<section>
 
 Mně asi ty verše připadnou obyčejné, ale ji tehdy dojaly, často si je připomínala, když jí bylo těžko. A dodala, že ona verše sice nikdy nepsala, ale abych si nemyslel, učila se hrát na klavír a zpívat, taky jezdit na koni a hodiny francouzštiny brala u soukromé učitelky. Táta dokonce pomýšlel na to, že ji pošle na konzervatoř, ale přišla do toho válka. Byl obyčejný řezník, trochu prudký, ale hodný člověk a měl rád zvířata. Každou chvíli přitáhl domů nějakou zatoulanou kočku anebo psa, museli je ošetřovat, dokud si je zase někdo neodnesl, a chtěl, aby to jeho děti někam dotáhly. Však taky jeden její bratr je advokátem a druhý inženýrem chemie a mladší sestra má zase obchodní akademii, jenom ona tak skončila, poněvadž přišla válka a taky protože v sedmnácti ztratila hlavu a byla celá pryč z toho, že za ní běhá doktůrek. Kdyby jen tušila, co ji čeká!
 
@@ -698,6 +836,10 @@ Všichni se smáli, zatímco já hleděl v nočním šeru na paní doktorovou, 
 
 Veliký Mistr Maupassant psal:
 
+</section>
+
+<section>
+
 > _Neříkala také nic, seděla nepohnutě ve svém koutku. Kdyby pokaždé, když světlo proniklo do vozu, neviděl, jak se jí lesknou oči, myslel by si, že spí._
 
 > _„Nač myslíš?“ Věděl dobře, že nesmí promluvit, že by jedno jediné slovo přerušilo mlčení a odneslo jeho naději; chyběla mu však odvaha, odvaha k náhlému a násilnému činu. Najednou ucítil, že pohnula nohou. Ten náhlý prudký pohyb snad znamenal netrpělivost, možná výzvu. Při skoro nepostřehnutelném škubnutí ho zamrazilo po celém těle, najednou se otočil, vrhl se na ni, hledal ústy její rty a rukama se jí snažil dostat na tělo._
@@ -709,6 +851,10 @@ Veliký Mistr Maupassant psal:
 > _Zašeptala tak tiše, že jí sotva rozuměl: „Přijeďte ke mně zítra na oběd!“_
 
 > _Dal drožkáři pětifrank a vyrazil vpřed rychle a vítězoslavně, srdce mu přetékalo radostí. Konečně má vdanou!_
+
+</section>
+
+<section>
 
 Druhý den ráno všichni v jídelně hovořili o představení, také matka se vyptávala, a když jsem odpovídal jako ve snách, všimla si mé pobledlosti i kruhů pod očima a rázem se vylekala, že jsem v tom přeplněném sále chytil nějakou chorobu, hned si myslela, že jsem neměl nikam chodit.
 
@@ -786,10 +932,18 @@ Pidimužice proběhla mezi stoly a zastavila se před ním. V tu chvíli, snad
 
 Pan doktor Slavík z okna sledoval, jak čarodějnice míří k černé limuzíně, a doprovodil ji verši:
 
+</section>
+
+<section>
+
 _Jeden dědek svojí bábě  
 do prdele vrazil hrábě.  
 Tam je, babo, tam je máš,  
 už je nikdy nevyndáš!_
+
+</section>
+
+<section>
 
 Ani jsem se neodvážil pohlédnout k jeho stolu, co tomu říká paní doktorová.
 
@@ -866,3 +1020,5 @@ Když pak opravdu zazněly, zavřel jsem oči, ale stejně se mými víčky prop
 Kradmo jsem pohlédl na svou sousedku, jestli také vidí ten balon, ale hleděla do země a po opálených lících se jí koulely slzy. A já ukročil do strany, až jsem se ocitl po jejím boku, pak jsem se konečky prstů dotkl hřbetu její ruky. Aniž vzhlédla, stiskla mi dlaň a já vnímal, jak se moje ruka rychle mění v křídlo, mohl jsem stoupat, vznést se, mohl jsem se jako ten balon houpat ve výšce, mohl jsem spolu s ní odletět, vybrat si kteroukoliv ze čtyř světových stran, ale zůstal jsem, setrval jsem nad tímto malým, bolestným, posvěceným kouskem země.
 
 > _(1980)_
+
+</section>

@@ -3,19 +3,37 @@ title: Lingula
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Menza byla dlouhá a bezútěšná, hluboko v podzemí a její stěny, kromě zadní skleněné, měly jen slepé výklenky místo oken. Menzovní výbor se sice snažil zastřít jejich pustotu ručně malovaným desaterem:
+
+</section>
+
+<section>
 
 **NEPOLIJEŠ!  
 NEZANECHÁŠ NÁDOBÍ ŠPINAVÉHO!  
 NEZAKOUŘÍŠ! …**
 
+</section>
+
+<section>
+
 ale sál tím příliš nezvlídněl a Tomáš i s kamarády nosili své obědy až ke skleněné stěně. Bylo tu více vzduchu, víc světla a stolek pod posledním článkem desatera měl jednu nohu kratší, nikdo u něho nesedal, a hodil se proto výborně k odkládání kabátů, aktovek a talířů od polévky.
 
 Zvykli si na toto místo, poslední stolek v druhé řadě, vystřihli z papíru velkého štíra, na něj napsali:
 
+</section>
+
+<section>
+
 **BIOLOGIE – REZERVOVÁNO!**
+
+</section>
+
+<section>
 
 Hned za skleněnou stěnou ležela malá zahrádka, dva keře modrého bezu, nízký akát, bílá magnólie a zlatý déšť, hnízdili tu kosi a párek hrdliček. Nevšímali si toho příliš, jenom ptákům v zimě házeli zbytky z talířů a jednoho dne skoro s podivem zjistili, že zatímco studovali kmen Nematoda, akátu vyrašily první lístky.
 
@@ -23,7 +41,15 @@ Když rozkvetl bez, u stolku s kratší nohou se objevila cizí dívka – sk
 
 Po celou dobu, kdy jedla, z ní téměř nespustili pohled a za celou tu dobu na ně ona ani jednou nepohlédla, jako by ani nevěděla, že vedle ní někdo sedí a že nad hlavou jí visí desáté přikázání:
 
+</section>
+
+<section>
+
 **BUĎ PŘÍVĚTIVÝ K SOUDRUHŮM!**
+
+</section>
+
+<section>
 
 Když dojedla, otřela si ústa kapesníčkem, její pohled tkvěl přitom dokonale v prázdnu; potom vstala, na okamžik se ohlédla, teď si jich musela všimnout, ale nedala nic najevo a odběhla na vysokých tenkých podpatcích krátkými krůčky dokonalé sekretářky.
 
@@ -225,8 +251,16 @@ Napadlo ho něco úplně sebevražedného. „Zrovna tam jsem tě chtěl pozvat.
 
 Tu o tom červu znáš?
 
+</section>
+
+<section>
+
 _Ukrytý do ulity,  
 prazvláštní červ si žil…_
+
+</section>
+
+<section>
 
 Víš, jak se rozmnožuje Eunice viridis? Fuj!
 
@@ -612,17 +646,33 @@ Chce, abych mu řekla, že ho mám ráda. A chce se líbat. Musím mu to přece
 
 Tak ty mě miluješ, řekne, půjdeme tedy někam spolu, viď? Ne! Nějak jinak. Všemi silami se upínala k těm slovům a už k ní také přicházela, blížila se z veliké dálky: dvě světla na pusté svítající silnici, široké plátno, tichý šepot zpod plachty:
 
+</section>
+
+<section>
+
 > _Byl to nezapomenutelný večer. I kdybychom už spolu neprožili nic víc, stálo za to, že jsme se poznali. Ale už se nikdy neopustíme!_
+
+</section>
+
+<section>
 
 „Slíbila jsi mi…,“ řekl.
 
 „Nech toho pořád,“ okřikla ho. Tak nenáviděla všechny ty fráze. Spínaly se s ní. Patřily k sobě. A byly v ní. Nasákla jimi. Nedovedla nic než je. Nedovedla nic víc. Mohla ho jenom líbat!
+
+</section>
+
+<section>
 
 > _Tak ty mě miluješ? A půjdeme teď spolu, viď?_
 
 > _Kam?_
 
 > _Třeba k tobě._
+
+</section>
+
+<section>
 
 Snažila se zadržet ten film. Ale už se hrál.
 
@@ -695,3 +745,5 @@ Na velkých pouličních hodinách bylo půl šesté ráno, o půl deváté mě
 Lingulo, řekl jí v duchu. Lingula, odříkával si tiše, třída Brachio­poda, skořápky se otevírají nebo zavírají v přední volné části plášťových okrajů, jsou do nich zapuštěny štětiny. Jako celá tato skupina červů, má i Lingula blízké vztahy k řádu Phoronis…
 
 > _(1962)_
+
+</section>

@@ -3,6 +3,8 @@ title: "Klára a\_dva páni"
 contentType: prose
 ---
 
+<section>
+
 Muž vstoupil do dveří, na okamžik se zarazil, protože v předsíni tkvěl podivný pach: nevětraných peřin, zetlelých květin a starých šatů.
 
 „Jen pojďte,“ řekla a sundávala si kabát.
@@ -720,3 +722,5 @@ Ležela nehnutě na posteli, teprve teď si všiml, jak ubohé jsou povlaky peř
 Nikdo o mně neví, opakoval si, s nikým jsem nemluvil, ani v tom telefonu. Nebyl jsem tady. Vyšel po špičkách do předsíně a otevřel dveře do chodby. Byla prázdná. Nikdo ho neviděl. Nebyl tady. Nikdy tady nebyl.
 
 > _(1968)_
+
+</section>

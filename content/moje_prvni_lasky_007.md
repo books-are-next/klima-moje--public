@@ -3,6 +3,8 @@ title: In camera caritatis1
 contentType: prose
 ---
 
+<section>
+
 Byl mrňavý, podsaditý, černý, pod nosem nosil knírek jako nedávno vševládný vůdce a byl to vyhlášený pes. Vstoupil do naší třídy, která byla přemnožena půl stem nevzdělanců, z nichž někteří (jako já) neprošli vůbec žádným školením a jiní prošli školením protektorátním, a upozornil nás, že latina je jazyk vznešený, důležitý a libý. Mluvili jím i psali básníci božského nadání: Vergilius, Ovidius či Horatius, zakladatelé věd historických, jako Livius a Tacitus, i věd právních, jako Cicero. Také náš veliký mistr Jan Hus napsal některé ze svých děl v jazyku latinském. Zná snad někdo aspoň jejich názvy?
 
 Nikdo z nás neměl tušení.
@@ -83,12 +85,24 @@ O přestávce jsem na chodbě ukusoval ze svého krajíce a ploužil se někol
 
 Když jsem přišel domů, sklíčilo mě vědomí vlastní bezvýznamnosti. Čím jsem mohl přivábit pozornost bytosti, která tak zjevně duchem převyšovala své okolí? Nic významného jsem dosud nevykonal a student jsem byl spíše průměrný. Jedině snad mé slohy docházely jistého uznání. A to naše dobrotivá češtinářka netušila, že v černém osmerkovém sešitě skrývám ještě pozoruhodnější literární výplody. Vzklíčila ve mně naděje, vytáhl jsem ten sešit a chvíli v něm listoval:
 
+</section>
+
+<section>
+
 _Moucha ti na nos usedla, což necítíš, pije ti krev,  
 ke slonu pravila gazela, dřív než ji pohltil lev._
+
+</section>
+
+<section>
 
 Nebyl jsem si přitažlivostí svého veršování příliš jist, ale přitažlivost básnického osudu mi připadala nepochybná.
 
 Připomněl jsem si kolegu Viktora a nestoudnou vlezlost, s níž se pokoušel získat si Její pozornost, a ještě toho odpoledne jsem napsal báseň:
+
+</section>
+
+<section>
 
 _Ubohá dívenko,  
 dnes jsem tě spatřil  
@@ -98,11 +112,19 @@ každičkou vteřinu
 zářivý amulet očí tvých.  
 Bože, tak strašlivě věřících._
 
+</section>
+
+<section>
+
 Vlastní verše mě dojaly. Nadepsal jsem je: Neznámé! A dolů připsal: _Ze sbírky Žaly_. A iniciály svého jména. Pak jsem všechno ještě jednou krasopisně provedl na arch bělostného papíru a vložil ho do sbírky příkladů z matematiky.
 
 Druhý den při hodině geometrie jsem dal svůj výtvor do oběhu. Snažil jsem se počínat si nenápadně, i když jsem napjatě sledoval putování svého milostného poselství směrem k Ní. Skutečně je dostala a přečetla si ho. Pokud se v její tváři vůbec něco zračilo, byl to spíš úžas. Lísteček složila, pokrčila rameny a poslala jej dále.
 
 Asi za půl hodiny se mi můj výplod vrátil. Na papír kdosi podvrhl (a signoval mými iniciálami) další báseň.
+
+</section>
+
+<section>
 
 _Mé známé!  
 Amálie  
@@ -114,11 +136,23 @@ rukavicí
 za ňadry pěstí  
 (Ze sbírky Štěstí)_
 
+</section>
+
+<section>
+
 Věděl jsem, že k zasílání veršů už nenaleznu odvahu. Ale když jsem večer doma smolil latinský překlad, rozechvěl mě náhlý, ohromující nápad. Odstrčil jsem nenáviděný překlad, otevřel zásuvku, vytáhl z ní čistý linkovaný sešit a nejdříve ze všeho jsem nadepsal svoje jméno. Pod ně jsem umístil titul: VELIKÉ SRDCE. Román. Pak jsem ještě na další stránku napsal: Díl první. Chvíli jsem váhal, ale démon, který byl právě do mě vstoupil, mě hnal dál. Otočil jsem list a napsal: Část první.
 
 Tušil jsem, že napíšu rozsáhlé dílo. Neměl jsem představu, kolik dá práce napsat román, který se bude skládat z mnoha dílů a ještě většího počtu částí, ale zdálo se mi, že to svedu. Otočil jsem další list a nadepsal: Kapitola první. Magika jedniček mě vzrušovala. Přidal jsem ještě arabskou jedničku a pod ní hned začal první větu:
 
+</section>
+
+<section>
+
 > _Byl slunný horký den, paprsky se prodíraly větvovím věkovitých smrků a jedlí a kreslily v rozpáleném prachu silnice roztodivné obrazce – velebné ticho vládlo v tom velechrámu přírody._
+
+</section>
+
+<section>
 
 Ó!
 
@@ -144,7 +178,15 @@ Jen jsem se tedy otázal, jakou knihu má vlastně ráda, ale nechala mi to zcel
 
 Sotva jsem přišel domů, začal jsem se probírat svou nepříliš bohatou četbou, abych z ní vybral právě to dílo, jež by se mohlo stát výmluvným poslem mých citů. Autora jsem určil brzy – byl jím ten nebožák s obrovskou hlavou, Ivan Sergejevič Turgeněv. Za prvé jsem ho obdivoval, za druhé jsem od něho přečetl několik knih, a konečně a především psal mnoho o nešťastných láskách. Kdybych nemusel při své práci vystupovat pod cizím jménem, vybral bych si, už pro ten nádherně výmluvný titul, povídku První láska. (Jak krásně bych citoval: „Ó něžné city, lahodné zvuky, dobroto a tichnutí dojaté duše, rozplývající se radosti prvních pohnutí lásky – kde jste, kde jste?“) Líčila však tak zaujatě pocity dospívajícího chlapce, že jsem ji, nerad, uznal za nevhodnou. Rozhodl jsem se nakonec pro Asju. Ta dívka byla také poznamenaná, ne sice tělesnou vadou, ale původem. Byla něžná, krásná, vášnivá, plachá a přitom vzplanula stravující láskou k vypravěči příběhu, a co se mi líbilo nejvíc, vášeň ji dohnala k tomu, že mu ona sama učinila vyznání. Povídka navíc oplývala duchaplnými postřehy a aforismy:
 
+</section>
+
+<section>
+
 > _Kdybychom byli oba ptáci, jak bychom se vznesli, jak bychom letěli… Tak bychom ustrnuli v tomto modru… Ale nejsme ptáci… Ó pohlede ženy, která se zamilovala, kdo tě popíše?_
+
+</section>
+
+<section>
 
 Psal jsem skoro až do půlnoci. „Včera jsem před vámi plakala, kdybyste mi řekl jedno slovo, jen jedno slovo, byla bych zůstala. Neřekl jste. Tak je zřejmě lépe… Sbohem navždy!“
 
@@ -225,3 +267,5 @@ _[10](./resources/undefined) Kdybys byl mlčel, zůstal bys filozofem._
 _[11](./resources/undefined) Hrozné pohledět, hrozné povědět._
 
 _[12](./resources/undefined) Ó klamná lidská naděje! Mysl se hrozí vzpomínky._
+
+</section>
