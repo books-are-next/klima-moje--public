@@ -13,9 +13,17 @@ Menza byla dlouhá a bezútěšná, hluboko v podzemí a její stěny, kromě
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 **NEPOLIJEŠ!  
 NEZANECHÁŠ NÁDOBÍ ŠPINAVÉHO!  
 NEZAKOUŘÍŠ! …**
+
+</div>
+
+</div>
 
 </section>
 
@@ -29,7 +37,15 @@ Zvykli si na toto místo, poslední stolek v druhé řadě, vystřihli z papí
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 **BIOLOGIE – REZERVOVÁNO!**
+
+</div>
+
+</div>
 
 </section>
 
@@ -45,7 +61,15 @@ Po celou dobu, kdy jedla, z ní téměř nespustili pohled a za celou tu dobu 
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 **BUĎ PŘÍVĚTIVÝ K SOUDRUHŮM!**
+
+</div>
+
+</div>
 
 </section>
 
