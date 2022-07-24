@@ -1,0 +1,427 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Moje první lásky",
+  "author": "Ivan Klíma",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "klima-moje-prvni-lasky-439a0b5",
+  "revision": "439a0b5",
+  "readingOrder": [
+    "promo.html",
+    "moje_prvni_lasky_005.html",
+    "moje_prvni_lasky_006.html",
+    "moje_prvni_lasky_007.html",
+    "moje_prvni_lasky_008.html",
+    "moje_prvni_lasky_009.html",
+    "moje_prvni_lasky_010.html",
+    "moje_prvni_lasky_011.html",
+    "moje_prvni_lasky_012.html",
+    "moje_prvni_lasky_013.html",
+    "moje_prvni_lasky_014.html",
+    "moje_prvni_lasky_015.html",
+    "moje_prvni_lasky_016.html",
+    "moje_prvni_lasky_017.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Sun Jul 24 2022 22:26:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658701571337
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "moje_prvni_lasky_005.html",
+      "toc": []
+    },
+    {
+      "title": "Láska",
+      "file": "moje_prvni_lasky_005.html",
+      "words": 1206,
+      "chars": 6915,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "moje_prvni_lasky_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Láska",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Miriam",
+      "file": "moje_prvni_lasky_006.html",
+      "words": 3639,
+      "chars": 21122,
+      "ideas": 125,
+      "role": "chapter",
+      "order": 2,
+      "prev": "moje_prvni_lasky_005.html",
+      "next": "moje_prvni_lasky_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Miriam",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "In camera caritatis1",
+      "file": "moje_prvni_lasky_007.html",
+      "words": 4012,
+      "chars": 24356,
+      "ideas": 119,
+      "role": "chapter",
+      "order": 3,
+      "prev": "moje_prvni_lasky_006.html",
+      "next": "moje_prvni_lasky_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "In camera caritatis1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Má vlast",
+      "file": "moje_prvni_lasky_008.html",
+      "words": 19393,
+      "chars": 114023,
+      "ideas": 449,
+      "role": "chapter",
+      "order": 4,
+      "prev": "moje_prvni_lasky_007.html",
+      "next": "moje_prvni_lasky_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Má vlast",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hra na pravdu",
+      "file": "moje_prvni_lasky_009.html",
+      "words": 11361,
+      "chars": 65107,
+      "ideas": 458,
+      "role": "chapter",
+      "order": 5,
+      "prev": "moje_prvni_lasky_008.html",
+      "next": "moje_prvni_lasky_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hra na pravdu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Provazochodci",
+      "file": "moje_prvni_lasky_010.html",
+      "words": 8172,
+      "chars": 46659,
+      "ideas": 237,
+      "role": "chapter",
+      "order": 6,
+      "prev": "moje_prvni_lasky_009.html",
+      "next": "moje_prvni_lasky_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Provazochodci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lingula",
+      "file": "moje_prvni_lasky_011.html",
+      "words": 7119,
+      "chars": 41868,
+      "ideas": 349,
+      "role": "chapter",
+      "order": 7,
+      "prev": "moje_prvni_lasky_010.html",
+      "next": "moje_prvni_lasky_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lingula",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pás",
+      "file": "moje_prvni_lasky_012.html",
+      "words": 5324,
+      "chars": 30315,
+      "ideas": 192,
+      "role": "chapter",
+      "order": 8,
+      "prev": "moje_prvni_lasky_011.html",
+      "next": "moje_prvni_lasky_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pás",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Poprava koně",
+      "file": "moje_prvni_lasky_013.html",
+      "words": 5199,
+      "chars": 28970,
+      "ideas": 119,
+      "role": "chapter",
+      "order": 9,
+      "prev": "moje_prvni_lasky_012.html",
+      "next": "moje_prvni_lasky_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poprava koně",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Klára a dva páni",
+      "file": "moje_prvni_lasky_014.html",
+      "words": 6842,
+      "chars": 38916,
+      "ideas": 360,
+      "role": "chapter",
+      "order": 10,
+      "prev": "moje_prvni_lasky_013.html",
+      "next": "moje_prvni_lasky_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Klára a dva páni",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svatební cesta",
+      "file": "moje_prvni_lasky_015.html",
+      "words": 2745,
+      "chars": 16028,
+      "ideas": 131,
+      "role": "chapter",
+      "order": 11,
+      "prev": "moje_prvni_lasky_014.html",
+      "next": "moje_prvni_lasky_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svatební cesta",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nebe, peklo, ráj",
+      "file": "moje_prvni_lasky_016.html",
+      "words": 3705,
+      "chars": 21587,
+      "ideas": 221,
+      "role": "chapter",
+      "order": 12,
+      "prev": "moje_prvni_lasky_015.html",
+      "next": "moje_prvni_lasky_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nebe, peklo, ráj",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Autorova poznámka",
+      "file": "moje_prvni_lasky_017.html",
+      "words": 395,
+      "chars": 2539,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 13,
+      "prev": "moje_prvni_lasky_016.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Autorova poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 145,
+      "chars": 938,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
+      "prev": "moje_prvni_lasky_017.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 79263,
+      "chars": 459372,
+      "ideas": 2844
+    },
+    "chapters": {
+      "words": 79112,
+      "chars": 458405,
+      "ideas": 2824
+    }
+  }
+}
