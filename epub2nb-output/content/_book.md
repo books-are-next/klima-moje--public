@@ -13,6 +13,7 @@ meta:
   isbn: 978-80-274-1470-3
   contentType: prose
   publisherShort: mkp
+  subtitle: (a jiné milostné povídky)
 readingOrder:
   - promo.html
   - moje_prvni_lasky_005.html
