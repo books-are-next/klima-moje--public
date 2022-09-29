@@ -35,7 +35,7 @@ My v předních lavicích jsme viděli, že ten ubožák drží knihu vzhůru n
 
 „Včera…“ Hlas se mu zlomil a i on padl.
 
-Byli jsme ztraceni. Přestali jsme věřit, že kdokoliv z nás dokáže překonat iniuriam potentiorum,[2](./resources/undefined) fascinováni naším mocným nepřítelem mohli jsme jako všichni zoufalci, jako všichni odsouzenci věřit leda ve znamení hvězd anebo čekat na příchod vysvoboditele. Ten se postaví zpříma našemu katanovi a zodpoví mu jako Oidipus Sfinze jeho nezodpověditelné otázky, netvorovi pak nezbude, než aby se vrhl ze skály. Pak teprve nám ubohým nastanou lepší časy: Forsan miseros meliora sequentur.
+Byli jsme ztraceni. Přestali jsme věřit, že kdokoliv z nás dokáže překonat iniuriam potentiorum,[^2] fascinováni naším mocným nepřítelem mohli jsme jako všichni zoufalci, jako všichni odsouzenci věřit leda ve znamení hvězd anebo čekat na příchod vysvoboditele. Ten se postaví zpříma našemu katanovi a zodpoví mu jako Oidipus Sfinze jeho nezodpověditelné otázky, netvorovi pak nezbude, než aby se vrhl ze skály. Pak teprve nám ubohým nastanou lepší časy: Forsan miseros meliora sequentur.
 
 Tak se i stalo. Pokud se vysvoboditelem může stát panna. Ještě k tomu kulhající.
 
@@ -53,7 +53,7 @@ Ruce za zády, došel až k poslední lavici. „Jakoupak jste měla známku z�
 
 Řekla, že měla výbornou.
 
-Slyšel jsem, jak v duchu výsměšně zaržál. Jedničku, samozřejmě, neměl v naší třídě nikdo. Výbornou, upozornil nás, napsal za svůj život na vysvědčení pouze třikrát. Se dvěma z těch premiantů si dodnes píše. Třetí bohužel zemřel. Jistě má na náhrobku vytesaný nápis v tomto zvráceném jazyce: STAT SUA CUIQUE DIES. Anebo: NIHIL EST TOTO, QUOD PERSTET IN ORBE.[3](./resources/undefined)
+Slyšel jsem, jak v duchu výsměšně zaržál. Jedničku, samozřejmě, neměl v naší třídě nikdo. Výbornou, upozornil nás, napsal za svůj život na vysvědčení pouze třikrát. Se dvěma z těch premiantů si dodnes píše. Třetí bohužel zemřel. Jistě má na náhrobku vytesaný nápis v tomto zvráceném jazyce: STAT SUA CUIQUE DIES. Anebo: NIHIL EST TOTO, QUOD PERSTET IN ORBE.[^3]
 
 „Troufala byste si trochu zapřekladat?“
 
@@ -73,7 +73,7 @@ Zdálo se, že zkoušená okamžik váhá, pak vzhlédla bezelstně k našemu t
 
 Ještě chvíli váhala: „Hostibus appropinquantibus milites castra muniebant.“
 
-O terque quaterque beati! Copak tohle bylo ještě v lidských silách? O quae mutatio rerum![4](./resources/undefined)
+O terque quaterque beati! Copak tohle bylo ještě v lidských silách? O quae mutatio rerum![^4]
 
 Na katanově tváři se rozhostil úsměv. Přistoupil k její lavici a položil zpět její cvičebnici. „Knižky u nas balime do modreho papiru,“ oznámil, „ale ve vašem připadě učinime vyjimku. Mužete se posadit!“
 
@@ -172,7 +172,7 @@ Za okny zatím šílelo jaro, milenci se za městského šírání vodili nestou
 
 O přestávce se přibelhala za mnou (Ó má nejdražší, má zbožňovaná!) a zanaříkala, že tenhle sloh bude určitě nad její síly. Napadlo ji, že by mě mohla poprosit o pomoc, ale teď se to neodvažuje vyslovit.
 
-O qui res hominumque deumque aeternis regis imperiis, et fulmine terres![5](./resources/undefined) Jaké pocty se mi to dostává. Jaké důvěry. Tuší snad ona něco o tom, jak trávím všechen svůj volný čas? Tuší něco o mých citech? Anebo si mě vybrala jenom proto, že požívám pověst obratného pisatele slohových cvičení? Ale ať to učinila z jakýchkoliv pohnutek, nebude oslyšena. I kdybych měl pro ni obětovat celou noc! Nihil amanti difficile![6](./resources/undefined)
+O qui res hominumque deumque aeternis regis imperiis, et fulmine terres![^5] Jaké pocty se mi to dostává. Jaké důvěry. Tuší snad ona něco o tom, jak trávím všechen svůj volný čas? Tuší něco o mých citech? Anebo si mě vybrala jenom proto, že požívám pověst obratného pisatele slohových cvičení? Ale ať to učinila z jakýchkoliv pohnutek, nebude oslyšena. I kdybych měl pro ni obětovat celou noc! Nihil amanti difficile![^6]
 
 Jen jsem se tedy otázal, jakou knihu má vlastně ráda, ale nechala mi to zcela na vůli. Ještě dřív, než jsem si stačil uvědomit, že si to právě sjednávám první schůzku, jsme se domluvili, že na mě bude zítra v neděli čekat u uhříněveského mostku.
 
@@ -200,7 +200,7 @@ Příštího odpoledne jsem pečlivě opsanou a zabalenou úlohu, v níž byli
 
 Už jsem seskakoval z kola. „Tak to vezu!“ Hleděl jsem na ni úpěnlivě a přitom jsem lovil zpod košile obálku.
 
-Pravila, že jsem strašně, ale stráášně moc hodný, že to bude určitě skvěle napsáno (ani obálku neotevřela, ačkoliv já se chvěl nedočkavostí), ale teď si jistě potřebuju odpočinout. Vedla mě cestičkou kolem parku, zatímco já vedl kolo. Pak jsme jakýmsi šerým a úzkým tunýlkem podcházeli trať. Ocitla se vedle mě tak blízko, že jsem ucítil dotyk jejího boku a napadlo mě, že bych teď mohl pustit kolo a… Obstipui, steteruntque comae et vox faucibus haesit.[7](./resources/undefined) Než jsem se vzpamatoval, odemykala branku a já ji bezhlese následoval do domku, kde to vonělo jablky, česnekem, mýdlem a kočkami.
+Pravila, že jsem strašně, ale stráášně moc hodný, že to bude určitě skvěle napsáno (ani obálku neotevřela, ačkoliv já se chvěl nedočkavostí), ale teď si jistě potřebuju odpočinout. Vedla mě cestičkou kolem parku, zatímco já vedl kolo. Pak jsme jakýmsi šerým a úzkým tunýlkem podcházeli trať. Ocitla se vedle mě tak blízko, že jsem ucítil dotyk jejího boku a napadlo mě, že bych teď mohl pustit kolo a… Obstipui, steteruntque comae et vox faucibus haesit.[^7] Než jsem se vzpamatoval, odemykala branku a já ji bezhlese následoval do domku, kde to vonělo jablky, česnekem, mýdlem a kočkami.
 
 Jakási venkovsky vyhlížející paní – jistě její matka – mě posadila za stůl, jehož deska byla doběla vydrhnutá. Přiběhlo několik koček, které se mi třely o nohy, a hned nato se přede mnou objevil hrnek mléka a talíř plný smažených vajec.
 
@@ -212,7 +212,7 @@ Už se stmívalo, když jsme se vraceli k silnici. Doprovázela mě. Co kdybych
 
 Zatímco jsme se u silnice loučili, její ztemnělé oči jako by ke mně vzhlížely s očekáváním.
 
-Jednou se dočkají, nezklamu je, ty drahé oči. A vyhoupl jsem se plavně na svůj bicykl a rychle se vzdaloval směrem ku Praze; v zatáčce jsem se ještě ohlédl, ale má milovaná už tam nestála. V uších mi však stále zněl její libý a bezelstný hlas, jako by mě objímal a doprovázel. Ó něžné city, ó rozplývající se radosti prvních pohnutí lásky. Šlapal jsem jako posedlý. Heu furiis incensa feror![8](./resources/undefined)
+Jednou se dočkají, nezklamu je, ty drahé oči. A vyhoupl jsem se plavně na svůj bicykl a rychle se vzdaloval směrem ku Praze; v zatáčce jsem se ještě ohlédl, ale má milovaná už tam nestála. V uších mi však stále zněl její libý a bezelstný hlas, jako by mě objímal a doprovázel. Ó něžné city, ó rozplývající se radosti prvních pohnutí lásky. Šlapal jsem jako posedlý. Heu furiis incensa feror![^8]
 
 Doma jsem v rychlosti slátal svoji kompozici. O čem jsem psal, už nevím, ale jediná práce, která došla uznání, byla úloha o Turgeněvovi. Obvyklé opory, lítostivě nám oznámila češtinářka, totiž zklamaly.
 
@@ -220,15 +220,15 @@ Zakrátko skončil školní rok, odjeli jsme na prázdniny do vesničky na Vyso�
 
 Popsal jsem pět set čtyřicet devět stránek. Pod poslední větu jsem napsal velkými tiskacími písmeny: FINIS.
 
-Exegi monumentum aere perennius.[9](./resources/undefined) A v té chvíli mě sklíčil žal člověka, jenž má už všechny šťastné chvíle za sebou. Pak jsem si uvědomil, že přece všechnu tu námahu jsem podstoupil pro jediný, teď téměř zapomenutý cíl. Má drahá, má láska vystoupila náhle z mlh a já se oddal milostným představám. Viděl jsem ji, jak obklopena svými kočkami sedí za čisťounkým stolem a čte moje dílo. Je večer, zvenku padá do místnosti chlad, ale ona jej nevnímá. Čte právě to dojímavé místo, kde Jiří prvně doprovází Lenku až k jejímu domu. Dočte až po slova: _Jak je to nádherné naslouchat tvému hlasu, Leničko! Chtěl bych ho slyšet pořád, pořád, pořád!_ Tu se teprve zachvěje, vezme sešity, položí si je k posteli, odejde do koupelny, svlékne se a pak, když už bude ležet pod bělostnou, těžkou venkovskou duchnou, sáhne vedle sebe, nahmátne sešit, otevře jej a bude pokračovat ve své četbě. A do jejího srdce vstoupí něha, stále více ji bude prostupovat láska, také ovšem nastanou chvíle, kdy ji přemůže obdiv. Tehdy na okamžik vzhlédne od rozečteného příběhu a v duchu se užasle otáže: Je vůbec možné, že tohle napsal on? A její ústa zašeptají do tmy moje jméno.
+Exegi monumentum aere perennius.[^9] A v té chvíli mě sklíčil žal člověka, jenž má už všechny šťastné chvíle za sebou. Pak jsem si uvědomil, že přece všechnu tu námahu jsem podstoupil pro jediný, teď téměř zapomenutý cíl. Má drahá, má láska vystoupila náhle z mlh a já se oddal milostným představám. Viděl jsem ji, jak obklopena svými kočkami sedí za čisťounkým stolem a čte moje dílo. Je večer, zvenku padá do místnosti chlad, ale ona jej nevnímá. Čte právě to dojímavé místo, kde Jiří prvně doprovází Lenku až k jejímu domu. Dočte až po slova: _Jak je to nádherné naslouchat tvému hlasu, Leničko! Chtěl bych ho slyšet pořád, pořád, pořád!_ Tu se teprve zachvěje, vezme sešity, položí si je k posteli, odejde do koupelny, svlékne se a pak, když už bude ležet pod bělostnou, těžkou venkovskou duchnou, sáhne vedle sebe, nahmátne sešit, otevře jej a bude pokračovat ve své četbě. A do jejího srdce vstoupí něha, stále více ji bude prostupovat láska, také ovšem nastanou chvíle, kdy ji přemůže obdiv. Tehdy na okamžik vzhlédne od rozečteného příběhu a v duchu se užasle otáže: Je vůbec možné, že tohle napsal on? A její ústa zašeptají do tmy moje jméno.
 
 Během srpna, během celého krásného, horkého, milostného měsíce srpna jsem znovu a znovu četl svoje dílo. Upravoval jsem věty, vytrhával a vlepoval stránky, přepsal celý sešit pátý a půl sešitu sedmého. Den před zahájením školního roku jsem se po dlouhém váhání rozhodl k důležitému, ne-li k rozhodujícímu kroku. Na titulní stránku jsem připsal veliké: TOBĚ a do závorky jsem doplnil: Milé E. S. Autor.
 
 Potom jsem ze všech sešitů připravil úhledný balíček, převázal jej motouzem a uložil do aktovky.
 
-Ačkoliv jsem to měl do školy sotva tři minuty, příštího rána jsem spolu s vyděšenými primány přešlapoval před školou už v půl osmé. Teprve teď mě začaly přepadat úzkosti. Co když nepřijde? Co když opustí naši školu stejně náhle, jako se v ní objevila? Co když onemocněla? Co když sice přijde, ale odmítne přijmout můj dárek? Anebo nejstrašnější možnost: Přijde, přijme můj dárek, ale to, co si přečte, ji nejen nepotěší, nejen neobloudí, ale zraní, či dokonce urazí? Co když, místo abych vše získal, vše ztratím? Si tacuisses, philosophus mansisses.[10](./resources/undefined) Ó nezaplašitelná úzkosti, věčná a chvějivá nejistoto tvůrců!
+Ačkoliv jsem to měl do školy sotva tři minuty, příštího rána jsem spolu s vyděšenými primány přešlapoval před školou už v půl osmé. Teprve teď mě začaly přepadat úzkosti. Co když nepřijde? Co když opustí naši školu stejně náhle, jako se v ní objevila? Co když onemocněla? Co když sice přijde, ale odmítne přijmout můj dárek? Anebo nejstrašnější možnost: Přijde, přijme můj dárek, ale to, co si přečte, ji nejen nepotěší, nejen neobloudí, ale zraní, či dokonce urazí? Co když, místo abych vše získal, vše ztratím? Si tacuisses, philosophus mansisses.[^10] Ó nezaplašitelná úzkosti, věčná a chvějivá nejistoto tvůrců!
 
-Už přicházela, blížila se od parčíku, poznal jsem ji zdálky, jenže po jejím boku, horribile visu, horribile dictu,[11](./resources/undefined) kráčel vytáhlý mladík, v němž jsem podle bambulovitého nosu poznal bývalého oktavána Viktora. Když došli až k místu, kde končil parčík a začínala zahrada našeho ústavu, O fallacem hominum spem! Animus meminisse horret,[12](./resources/undefined) ten ničema se k ní naklonil a rychle ji políbil. A ona, má nejdražší, má láska, má bývalá láska se nejen nebránila, ale dokonce se za ním otočila, když se, sám zřejmě ohromen svou vlastní hnusnou nestoudností, vzdaloval zase podél parčíku, a zamávala mu.
+Už přicházela, blížila se od parčíku, poznal jsem ji zdálky, jenže po jejím boku, horribile visu, horribile dictu,[^11] kráčel vytáhlý mladík, v němž jsem podle bambulovitého nosu poznal bývalého oktavána Viktora. Když došli až k místu, kde končil parčík a začínala zahrada našeho ústavu, O fallacem hominum spem! Animus meminisse horret,[^12] ten ničema se k ní naklonil a rychle ji políbil. A ona, má nejdražší, má láska, má bývalá láska se nejen nebránila, ale dokonce se za ním otočila, když se, sám zřejmě ohromen svou vlastní hnusnou nestoudností, vzdaloval zase podél parčíku, a zamávala mu.
 
 Chvíli jsem uvažoval o tom, že ji, zrádnou poběhlici, dovleču k řece a před jejími zraky sešit po sešitu naházím své dílo do vody. Ale nemělo to smysl, pokud by nevěděla, co právě ničím, čím, a tedy kým to tak bezostyšně, tak marnotratně pohrdla.
 
@@ -243,29 +243,5 @@ Teprve teď jsem dokázal postřehnout v jejím hlase, jemuž jsem se ještě n
 > _(1980)_
 
 * * *
-
-_[1](./resources/undefined) V pokojíku lásky._
-
-_[2](./resources/undefined) Nespravedlnost mocných._
-
-_[3](./resources/undefined) Každého očekává jeho (poslední) den. Nic na celém světě netrvá věčně._
-
-_[4](./resources/undefined) Ó třikrát čtyřikrát blažení! Ó jaká změna věcí._
-
-_[5](./resources/undefined) Ó ty, který osudy lidí a bohů věrnou spravuješ vládou a bleskem je děsíš._
-
-_[6](./resources/undefined) Milujícím není nic zatěžko._
-
-_[7](./resources/undefined) Strnul jsem, vlasy se mi zježily a hlas uvázl v hrdle._
-
-_[8](./resources/undefined) Ha, jaké vášně mě ženou._
-
-_[9](./resources/undefined) Dokončil jsem pomník trvalejší než kov._
-
-_[10](./resources/undefined) Kdybys byl mlčel, zůstal bys filozofem._
-
-_[11](./resources/undefined) Hrozné pohledět, hrozné povědět._
-
-_[12](./resources/undefined) Ó klamná lidská naděje! Mysl se hrozí vzpomínky._
-
+[^1]: V pokojíku lásky.[^2] Nespravedlnost mocných.[^3] Každého očekává jeho (poslední) den. Nic na celém světě netrvá věčně.[^4] Ó třikrát čtyřikrát blažení! Ó jaká změna věcí.[^5] Ó ty, který osudy lidí a bohů věrnou spravuješ vládou a bleskem je děsíš.[^6] Milujícím není nic zatěžko.[^7] Strnul jsem, vlasy se mi zježily a hlas uvázl v hrdle.[^8] Ha, jaké vášně mě ženou.[^9] Dokončil jsem pomník trvalejší než kov.[^10] Kdybys byl mlčel, zůstal bys filozofem.[^11] Hrozné pohledět, hrozné povědět.[^12] Ó klamná lidská naděje! Mysl se hrozí vzpomínky.
 </section>
