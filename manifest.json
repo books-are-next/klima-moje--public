@@ -8,8 +8,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "klima-moje-prvni-lasky-3e36cf6",
-  "revision": "3e36cf6",
+  "identifier": "klima-moje-prvni-lasky-d8c1bd8",
+  "revision": "d8c1bd8",
   "readingOrder": [
     "promo.html",
     "moje_prvni_lasky_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:57:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639839173
+    "date": "Tue Oct 04 2022 16:44:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901899483
   },
   "documents": [
     {
@@ -87,9 +87,9 @@
     {
       "title": "In camera caritatis1",
       "file": "moje_prvni_lasky_007.html",
-      "words": 3918,
-      "chars": 23878,
-      "ideas": 107,
+      "words": 4008,
+      "chars": 24352,
+      "ideas": 118,
       "role": "chapter",
       "order": 3,
       "prev": "moje_prvni_lasky_006.html",
@@ -395,9 +395,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 145,
+      "words": 143,
       "chars": 938,
-      "ideas": 17,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "moje_prvni_lasky_017.html",
@@ -415,14 +415,14 @@
   ],
   "totals": {
     "all": {
-      "words": 79169,
-      "chars": 458894,
-      "ideas": 2832
+      "words": 79257,
+      "chars": 459368,
+      "ideas": 2841
     },
     "chapters": {
-      "words": 79018,
-      "chars": 457927,
-      "ideas": 2812
+      "words": 79108,
+      "chars": 458401,
+      "ideas": 2823
     }
   }
 }
