@@ -243,5 +243,29 @@ Teprve teď jsem dokázal postřehnout v jejím hlase, jemuž jsem se ještě n
 > _(1980)_
 
 * * *
-[^1]: V pokojíku lásky.[^2] Nespravedlnost mocných.[^3] Každého očekává jeho (poslední) den. Nic na celém světě netrvá věčně.[^4] Ó třikrát čtyřikrát blažení! Ó jaká změna věcí.[^5] Ó ty, který osudy lidí a bohů věrnou spravuješ vládou a bleskem je děsíš.[^6] Milujícím není nic zatěžko.[^7] Strnul jsem, vlasy se mi zježily a hlas uvázl v hrdle.[^8] Ha, jaké vášně mě ženou.[^9] Dokončil jsem pomník trvalejší než kov.[^10] Kdybys byl mlčel, zůstal bys filozofem.[^11] Hrozné pohledět, hrozné povědět.[^12] Ó klamná lidská naděje! Mysl se hrozí vzpomínky.
+
+[^1]: V pokojíku lásky.
+
+[^2]: Nespravedlnost mocných.
+
+[^3]: Každého očekává jeho (poslední) den. Nic na celém světě netrvá věčně.
+
+[^4]: Ó třikrát čtyřikrát blažení! Ó jaká změna věcí.
+
+[^5]: Ó ty, který osudy lidí a bohů věrnou spravuješ vládou a bleskem je děsíš.
+
+[^6]: Milujícím není nic zatěžko.
+
+[^7]: Strnul jsem, vlasy se mi zježily a hlas uvázl v hrdle.
+
+[^8]: Ha, jaké vášně mě ženou.
+
+[^9]: Dokončil jsem pomník trvalejší než kov.
+
+[^10]: Kdybys byl mlčel, zůstal bys filozofem.
+
+[^11]: Hrozné pohledět, hrozné povědět.
+
+[^12]: Ó klamná lidská naděje! Mysl se hrozí vzpomínky.
+
 </section>
