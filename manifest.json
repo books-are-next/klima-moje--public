@@ -8,8 +8,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "klima-moje-prvni-lasky-678ca5f",
-  "revision": "678ca5f",
+  "identifier": "klima-moje-prvni-lasky-172d332",
+  "revision": "172d332",
   "readingOrder": [
     "promo.html",
     "moje_prvni_lasky_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:56:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150972697
+    "date": "Mon Oct 10 2022 15:47:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416832015
   },
   "documents": [
     {
@@ -396,7 +396,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 143,
-      "chars": 938,
+      "chars": 939,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -416,7 +416,7 @@
   "totals": {
     "all": {
       "words": 79257,
-      "chars": 459368,
+      "chars": 459369,
       "ideas": 2841
     },
     "chapters": {
