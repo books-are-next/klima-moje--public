@@ -2,9 +2,9 @@
 title: Tiráž
 ---
 
-**Ivan Klíma    
-Moje první lásky**  
-**(a jiné milostné povídky)**  
+**Ivan Klíma**    
+**Moje první lásky**  
+*(a jiné milostné povídky)*  
 Redakce Jaroslava Bednářová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
