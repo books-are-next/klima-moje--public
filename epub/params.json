@@ -1,4 +1,5 @@
 {
+  "extractionComplete": true,
   "params": {
     "metadata": {
       "languageCode": "cs",
@@ -97,8 +98,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Láska"
+            "title": "Láska",
+            "children": []
           },
           {
             "filename": "moje_prvni_lasky_006.md",
@@ -110,8 +111,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Miriam"
+            "title": "Miriam",
+            "children": []
           },
           {
             "filename": "moje_prvni_lasky_007.md",
@@ -123,8 +124,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "In camera caritatis1"
+            "title": "In camera caritatis1",
+            "children": []
           },
           {
             "filename": "moje_prvni_lasky_008.md",
@@ -136,8 +137,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Má vlast"
+            "title": "Má vlast",
+            "children": []
           },
           {
             "filename": "moje_prvni_lasky_009.md",
@@ -149,8 +150,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Hra na pravdu"
+            "title": "Hra na pravdu",
+            "children": []
           },
           {
             "filename": "moje_prvni_lasky_010.md",
@@ -162,8 +163,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Provazochodci"
+            "title": "Provazochodci",
+            "children": []
           },
           {
             "filename": "moje_prvni_lasky_011.md",
@@ -175,8 +176,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Lingula"
+            "title": "Lingula",
+            "children": []
           },
           {
             "filename": "moje_prvni_lasky_012.md",
@@ -188,8 +189,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pás"
+            "title": "Pás",
+            "children": []
           },
           {
             "filename": "moje_prvni_lasky_013.md",
@@ -201,8 +202,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Poprava koně"
+            "title": "Poprava koně",
+            "children": []
           },
           {
             "filename": "moje_prvni_lasky_014.md",
@@ -214,8 +215,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Klára a dva páni"
+            "title": "Klára a dva páni",
+            "children": []
           },
           {
             "filename": "moje_prvni_lasky_015.md",
@@ -227,8 +228,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Svatební cesta"
+            "title": "Svatební cesta",
+            "children": []
           },
           {
             "filename": "moje_prvni_lasky_016.md",
@@ -240,8 +241,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Nebe, peklo, ráj"
+            "title": "Nebe, peklo, ráj",
+            "children": []
           },
           {
             "filename": "moje_prvni_lasky_017.md",
@@ -253,8 +254,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Autorova poznámka"
+            "title": "Autorova poznámka",
+            "children": []
           },
           {
             "filename": "moje_prvni_lasky_018.md",
@@ -473,6 +474,6 @@
       "user": "books-are-next",
       "repo": "klima-moje-prvni-lasky"
     },
-    "generatedAt": 1658413380142
+    "generatedAt": 1666351030302
   }
 }
