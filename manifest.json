@@ -8,8 +8,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "klima-moje-prvni-lasky-98869f5",
-  "revision": "98869f5",
+  "identifier": "klima-moje-prvni-lasky-16f0c54",
+  "revision": "16f0c54",
   "readingOrder": [
     "promo.html",
     "moje_prvni_lasky_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jan 05 2023 10:29:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1672914579644
+    "date": "Thu Jan 05 2023 10:37:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1672915043911
   },
   "documents": [
     {
@@ -85,10 +85,10 @@
       ]
     },
     {
-      "title": "In camera caritatis1",
+      "title": "In camera caritatis 1",
       "file": "moje_prvni_lasky_007.html",
-      "words": 4008,
-      "chars": 24352,
+      "words": 4009,
+      "chars": 24353,
       "ideas": 118,
       "role": "chapter",
       "order": 3,
@@ -98,7 +98,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "In camera caritatis1",
+          "name": "In camera caritatis 1",
           "id": null,
           "children": []
         }
@@ -415,13 +415,13 @@
   ],
   "totals": {
     "all": {
-      "words": 79256,
-      "chars": 459369,
+      "words": 79257,
+      "chars": 459370,
       "ideas": 2840
     },
     "chapters": {
-      "words": 79108,
-      "chars": 458401,
+      "words": 79109,
+      "chars": 458402,
       "ideas": 2823
     }
   }
