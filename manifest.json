@@ -8,8 +8,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "klima-moje-prvni-lasky-69d276d",
-  "revision": "69d276d",
+  "identifier": "klima-moje-prvni-lasky-98869f5",
+  "revision": "98869f5",
   "readingOrder": [
     "promo.html",
     "moje_prvni_lasky_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Dec 09 2022 15:52:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1670601128143
+    "date": "Thu Jan 05 2023 10:29:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1672914579644
   },
   "documents": [
     {
